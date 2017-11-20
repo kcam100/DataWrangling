@@ -1,0 +1,9 @@
+Resources for Project:
+
+1) Udacity Data Wrangling / SQL Course
+2) Udacity Forums (indispensable resource!)
+3) https://discussions.udacity.com/c/nd002-data-wrangling/data-wrangling-p3-491558559-698949179-699689362
+4) https://docs.python.org/2/library/xml.etree.elementtree.html
+5) https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+6) http://wiki.openstreetmap.org/wiki/OSM_XML
+7) http://www.sqlitetutorial.net/sqlite-python/create-tables/

@@ -1,0 +1,5 @@
+Map Area
+Las Vegas, Nevada, United States
+https://mapzen.com/data/metro-extracts/metro/las-vegas_nevada/ 
+
+I recently went to Las Vegas for my brother's bachelor party. After an eventful weekend, I thought about how we got to check out so many casinos, restaurants, and other amenities, yet it was impossible to see even a fraction of everything the city has to offer. This effectively sparked my curiosity to choose Las Vegas as the city to audit and clean. 

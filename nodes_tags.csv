@@ -1,0 +1,3161 @@
+id,key,value,type
+31551114,name,Las Vegas,regular
+31551114,is_in,Nevada,regular
+31551114,place,city,regular
+31551114,ar,لاس فيغاس,name
+31551114,bn,লাস ভেগাস,name
+31551114,fa,لاس وگاس,name
+31551114,he,לאס וגאס,name
+31551114,hy,Լաս Վեգաս,name
+31551114,ja,ラスベガス,name
+31551114,ka,ლას-ვეგასი,name
+31551114,ko,라스베이거스,name
+31551114,ml,ലാസ് വെഗാസ്,name
+31551114,mr,लास व्हेगास,name
+31551114,nv,Na'azhoosh hatsoh,name
+31551114,ru,Лас-Вегас,name
+31551114,sr,Лас Вегас,name
+31551114,ta,லாஸ் வேகஸ்,name
+31551114,te,లాస్ వెగాస్,name
+31551114,ur,لاس ویگاس,name
+31551114,yi,לאס וועגאס,name
+31551114,zh,拉斯维加斯,name
+31551114,wikidata,Q23768,regular
+31551114,population,567641,regular
+31551114,country,USA,is_in
+31551114,continent,North America,is_in
+137040454,power,tower,regular
+137045229,power,tower,regular
+137054181,ref,75,regular
+137054181,highway,motorway_junction,regular
+137061455,power,tower,regular
+137067570,power,tower,regular
+137068196,ref,56B,regular
+137068196,highway,motorway_junction,regular
+137072359,power,tower,regular
+137081345,power,tower,regular
+137084281,power,tower,regular
+137087607,power,tower,regular
+137087668,power,tower,regular
+137087725,power,tower,regular
+137092907,power,tower,regular
+137107043,power,tower,regular
+137116583,ref,65,regular
+137116583,highway,motorway_junction,regular
+137120325,power,tower,regular
+137131907,power,tower,regular
+137148317,highway,turning_circle,regular
+137165223,noexit,yes,regular
+137210736,ref,41,regular
+137210736,exit_to,NV-159;Charleston Blvd,regular
+137210736,highway,motorway_junction,regular
+137218043,source,Bing,regular
+137218043,highway,turning_circle,regular
+137220944,highway,motorway_junction,regular
+137223971,highway,turning_circle,regular
+137234679,highway,turning_circle,regular
+137239385,highway,turning_circle,regular
+137245689,railway,level_crossing,regular
+137245689,bell,no,crossing
+137245689,light,no,crossing
+137245689,barrier,no,crossing
+137249017,source,Bing,regular
+137249017,highway,turning_circle,regular
+137253440,highway,traffic_signals,regular
+137257912,highway,turning_circle,regular
+137258713,highway,turning_circle,regular
+137259657,highway,turning_circle,regular
+137266173,highway,turning_circle,regular
+137267113,highway,turning_circle,regular
+137268394,source,Bing,regular
+137268394,highway,turning_circle,regular
+137268651,source,bing,regular
+137268651,highway,turning_circle,regular
+137268756,highway,turning_circle,regular
+137269062,highway,turning_circle,regular
+137269969,highway,turning_circle,regular
+137270534,highway,turning_circle,regular
+137270700,highway,turning_circle,regular
+137271802,highway,turning_circle,regular
+137273141,highway,turning_circle,regular
+137275764,highway,turning_circle,regular
+137276932,highway,turning_circle,regular
+137280756,highway,turning_circle,regular
+137283315,highway,turning_circle,regular
+137284127,highway,turning_circle,regular
+137284779,highway,turning_circle,regular
+137285119,highway,traffic_signals,regular
+137285909,source,Bing,regular
+137285909,highway,turning_circle,regular
+137289208,highway,turning_circle,regular
+137290655,highway,turning_circle,regular
+137290866,highway,turning_circle,regular
+137293465,source,Bing,regular
+137293465,highway,turning_circle,regular
+137297775,highway,turning_circle,regular
+137298040,highway,turning_circle,regular
+137298721,highway,turning_circle,regular
+137298758,highway,traffic_signals,regular
+137298758,traffic_signals,signal,regular
+137300275,highway,turning_circle,regular
+137303375,highway,turning_circle,regular
+137306303,highway,turning_circle,regular
+137308097,highway,turning_circle,regular
+137308612,highway,turning_circle,regular
+137312540,highway,turning_circle,regular
+137312811,noexit,yes,regular
+137314943,highway,turning_circle,regular
+137318202,source,Bing,regular
+137318202,highway,turning_circle,regular
+137323900,highway,turning_circle,regular
+137325110,source,Bing,regular
+137325110,highway,turning_circle,regular
+137325713,highway,turning_circle,regular
+137325814,source,Yahoo,regular
+137325814,highway,turning_circle,regular
+137330912,highway,turning_circle,regular
+137334100,highway,turning_circle,regular
+137334726,highway,turning_circle,regular
+137336000,highway,turning_circle,regular
+137336365,highway,turning_circle,regular
+137337120,highway,turning_circle,regular
+137339279,highway,turning_circle,regular
+137343621,highway,turning_circle,regular
+137345048,highway,turning_circle,regular
+137345657,highway,turning_circle,regular
+137346267,highway,turning_circle,regular
+137346846,highway,turning_circle,regular
+137350190,highway,turning_circle,regular
+137350898,highway,turning_circle,regular
+137350976,highway,turning_circle,regular
+137353256,railway,level_crossing,regular
+137353256,bell,no,crossing
+137353256,light,no,crossing
+137353256,barrier,no,crossing
+137354598,bicycle,yes,regular
+137354598,railway,crossing,regular
+137354598,crossing,uncontrolled,regular
+137354598,light,no,crossing
+137354598,barrier,no,crossing
+137357760,highway,turning_circle,regular
+137358857,highway,turning_circle,regular
+137359298,highway,turning_circle,regular
+137361011,source,bing,regular
+137361011,highway,turning_circle,regular
+137363744,highway,turning_circle,regular
+137365027,highway,turning_circle,regular
+137368224,highway,turning_circle,regular
+137369213,highway,turning_circle,regular
+137372192,highway,turning_circle,regular
+137372913,highway,turning_circle,regular
+137374540,highway,turning_circle,regular
+137376086,source,Bing,regular
+137376086,highway,traffic_signals,regular
+137376681,highway,turning_circle,regular
+137381993,source,Bing,regular
+137381993,highway,turning_circle,regular
+137382464,highway,traffic_signals,regular
+137384043,source,Yahoo,regular
+137384043,highway,turning_circle,regular
+137385053,highway,turning_circle,regular
+137385647,highway,turning_circle,regular
+137386996,highway,turning_circle,regular
+137389361,highway,turning_circle,regular
+137390903,highway,turning_circle,regular
+137399565,source,Bing,regular
+137399565,highway,turning_circle,regular
+137400305,highway,turning_circle,regular
+137400439,highway,turning_circle,regular
+137401508,highway,turning_circle,regular
+137403348,source,Bing,regular
+137403348,highway,turning_circle,regular
+137406979,ref,56,regular
+137406979,highway,motorway_junction,regular
+137408004,source,Bing,regular
+137408004,highway,turning_circle,regular
+137409649,highway,turning_circle,regular
+137416066,source,Bing,regular
+137416066,highway,turning_circle,regular
+137417236,highway,traffic_signals,regular
+137417236,crossing,traffic_signals,regular
+137418864,highway,turning_circle,regular
+137420660,highway,turning_circle,regular
+137422072,highway,turning_circle,regular
+137422341,highway,turning_circle,regular
+137423282,source,bing,regular
+137423282,highway,turning_circle,regular
+137427704,highway,turning_circle,regular
+137427909,junction,roundabout,regular
+137427999,highway,turning_circle,regular
+137429355,source,Yahoo,regular
+137429355,highway,turning_circle,regular
+137431527,source,Bing,regular
+137431527,highway,turning_circle,regular
+137433154,highway,turning_circle,regular
+137435380,highway,turning_circle,regular
+137435791,highway,turning_circle,regular
+137438771,highway,turning_circle,regular
+137442478,source,Bing,regular
+137442478,highway,turning_circle,regular
+137448898,highway,turning_circle,regular
+137450480,highway,turning_circle,regular
+137455377,highway,turning_circle,regular
+137455861,source,Yahoo,regular
+137455861,highway,turning_circle,regular
+137456470,highway,turning_circle,regular
+137458585,source,bing,regular
+137458585,highway,turning_circle,regular
+137462195,highway,turning_circle,regular
+137463349,highway,turning_circle,regular
+137466277,highway,turning_circle,regular
+137468739,highway,turning_circle,regular
+137472407,highway,turning_circle,regular
+137472695,highway,turning_circle,regular
+137474708,highway,crossing,regular
+137477251,highway,turning_circle,regular
+137482132,highway,turning_circle,regular
+137482277,highway,crossing,regular
+137482624,source,Yahoo,regular
+137482624,highway,turning_circle,regular
+137483105,highway,turning_circle,regular
+137484223,source,Bing,regular
+137484223,highway,turning_circle,regular
+137487699,noexit,yes,regular
+137489870,highway,turning_circle,regular
+137489977,highway,turning_circle,regular
+137490885,highway,turning_circle,regular
+137493288,highway,turning_circle,regular
+137496750,source,Bing,regular
+137496750,highway,turning_circle,regular
+137497333,highway,turning_circle,regular
+137500613,highway,traffic_signals,regular
+137501575,highway,turning_circle,regular
+137502787,highway,traffic_signals,regular
+137502787,traffic_signals,signal,regular
+137505214,highway,turning_circle,regular
+137509836,highway,turning_circle,regular
+137510152,highway,turning_circle,regular
+137511120,highway,turning_circle,regular
+137513230,highway,turning_circle,regular
+137514432,source,Bing,regular
+137514432,highway,turning_circle,regular
+137514683,highway,turning_circle,regular
+137518722,source,Bing,regular
+137518722,highway,turning_circle,regular
+137519002,source,Bing,regular
+137519002,highway,turning_circle,regular
+137520876,highway,turning_circle,regular
+137521621,source,Bing,regular
+137521621,highway,turning_circle,regular
+137528727,highway,turning_circle,regular
+137531414,highway,turning_circle,regular
+137531972,highway,turning_circle,regular
+137532623,highway,traffic_signals,regular
+137541943,source,Bing,regular
+137541943,highway,turning_circle,regular
+137542179,source,Bing,regular
+137542179,highway,turning_circle,regular
+137544808,source,Bing,regular
+137544808,highway,turning_circle,regular
+137546897,highway,turning_circle,regular
+137549125,highway,turning_circle,regular
+137550917,highway,turning_circle,regular
+137555817,highway,turning_circle,regular
+137555973,highway,turning_circle,regular
+137558255,highway,turning_circle,regular
+137560459,highway,turning_circle,regular
+137560717,highway,turning_circle,regular
+137561055,highway,turning_circle,regular
+137561163,highway,turning_circle,regular
+137565012,noexit,yes,regular
+137565502,highway,turning_circle,regular
+137569287,highway,turning_circle,regular
+137570090,highway,turning_circle,regular
+137578085,highway,turning_circle,regular
+137578960,highway,turning_circle,regular
+137582599,highway,turning_circle,regular
+137591997,highway,turning_circle,regular
+137592156,highway,turning_circle,regular
+137594117,highway,turning_circle,regular
+137596227,highway,turning_circle,regular
+137598320,highway,turning_circle,regular
+137599609,highway,turning_circle,regular
+137600500,highway,turning_circle,regular
+137602801,highway,turning_circle,regular
+137609029,highway,turning_circle,regular
+137610164,source,Bing,regular
+137610164,highway,turning_circle,regular
+137611127,highway,turning_circle,regular
+137612742,source,Bing,regular
+137612742,highway,turning_circle,regular
+137615390,source,Bing,regular
+137615390,highway,turning_circle,regular
+137616988,highway,turning_circle,regular
+137617708,highway,turning_circle,regular
+137617884,highway,turning_circle,regular
+137620875,highway,turning_circle,regular
+137622200,highway,turning_circle,regular
+137623826,highway,turning_circle,regular
+137625798,highway,turning_circle,regular
+137627826,highway,turning_circle,regular
+137629993,highway,turning_circle,regular
+137635121,highway,turning_circle,regular
+137638815,noexit,yes,regular
+137647344,highway,turning_circle,regular
+137649291,highway,turning_circle,regular
+137650269,source,bing,regular
+137650269,highway,turning_circle,regular
+137650940,highway,turning_circle,regular
+137651073,highway,turning_circle,regular
+137656688,highway,turning_circle,regular
+137657093,highway,turning_circle,regular
+137658082,highway,turning_circle,regular
+137659429,highway,turning_circle,regular
+137666037,highway,turning_circle,regular
+137666410,highway,turning_circle,regular
+137667245,source,Bing,regular
+137667245,highway,turning_circle,regular
+137672802,source,Bing,regular
+137672802,highway,turning_circle,regular
+137673128,highway,turning_circle,regular
+137673622,highway,turning_circle,regular
+137676166,noexit,yes,regular
+137676973,highway,turning_circle,regular
+137682014,highway,turning_circle,regular
+137682680,highway,turning_circle,regular
+137685825,highway,turning_circle,regular
+137686534,source,bing,regular
+137686534,highway,turning_circle,regular
+137686667,highway,turning_circle,regular
+137690540,highway,turning_circle,regular
+137691591,highway,turning_circle,regular
+137695472,source,bing,regular
+137695472,highway,turning_circle,regular
+137696093,source,Bing,regular
+137696093,highway,turning_circle,regular
+137696277,highway,turning_circle,regular
+137697054,highway,turning_circle,regular
+137699434,source,Bing,regular
+137699434,highway,turning_circle,regular
+137701180,highway,turning_circle,regular
+137701605,highway,turning_circle,regular
+137705096,highway,turning_circle,regular
+137707731,highway,turning_circle,regular
+137708428,highway,turning_circle,regular
+137708598,highway,turning_circle,regular
+137712645,highway,turning_circle,regular
+137713058,highway,turning_circle,regular
+137715524,noexit,yes,regular
+137717773,highway,turning_circle,regular
+137718912,source,Bing,regular
+137718912,highway,turning_circle,regular
+137720540,source,Bing,regular
+137720540,highway,turning_circle,regular
+137720684,highway,turning_circle,regular
+137724145,highway,turning_circle,regular
+137724387,highway,turning_circle,regular
+137727072,noexit,yes,regular
+137728840,highway,turning_circle,regular
+137730226,source,Bing,regular
+137730226,highway,turning_circle,regular
+137735597,source,Bing,regular
+137735597,highway,turning_circle,regular
+137740506,highway,turning_circle,regular
+137740825,highway,turning_circle,regular
+137744285,railway,level_crossing,regular
+137745831,highway,turning_circle,regular
+137746287,highway,turning_circle,regular
+137748509,highway,turning_circle,regular
+137751394,highway,turning_circle,regular
+137755181,highway,turning_circle,regular
+137758248,highway,turning_circle,regular
+137759829,highway,turning_circle,regular
+137761129,highway,turning_circle,regular
+137762046,highway,turning_circle,regular
+150955656,ele,679,regular
+150955656,name,Garnet,regular
+150955656,note,Railroad siding,regular
+150955656,is_in,"Clark,Nevada,Nev.,NV,USA",regular
+150955656,place,locality,regular
+150955656,id,845843,gnis
+150955656,gnis:Class,Populated Place,regular
+150955656,gnis:County,Clark,regular
+150955656,gnis:ST_num,32,regular
+150955656,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150955656,gnis:ST_alpha,NV,regular
+150955656,gnis:County_num,003,regular
+150977932,ele,577,regular
+150977932,name,Victory Village,regular
+150977932,is_in,"Clark,Nevada,Nev.,NV,USA",regular
+150977932,place,hamlet,regular
+150977932,id,851457,gnis
+150977932,gnis:Class,Populated Place,regular
+150977932,gnis:County,Clark,regular
+150977932,gnis:ST_num,32,regular
+150977932,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150977932,gnis:ST_alpha,NV,regular
+150977932,gnis:County_num,003,regular
+158794952,created_by,JOSM,regular
+158797765,created_by,JOSM,regular
+174775647,power,tower,regular
+174775696,power,tower,regular
+174775752,power,tower,regular
+251141882,created_by,JOSM,regular
+278612276,highway,turning_circle,regular
+278612296,created_by,JOSM,regular
+279401296,created_by,JOSM,regular
+297854858,name,Bally's / Paris Las Vegas,regular
+297854858,railway,stop,regular
+297854858,monorail,yes,regular
+297854858,public_transport,stop_position,regular
+297856049,name,Charleston Heights,regular
+297856049,place,suburb,regular
+297856049,created_by,Potlatch 0.10b,regular
+298455038,created_by,Merkaartor 0.11,regular
+298563863,created_by,Merkaartor 0.11,regular
+298563909,created_by,Merkaartor 0.11,regular
+298564176,created_by,Merkaartor 0.11,regular
+298603952,created_by,Merkaartor 0.11,regular
+301317471,created_by,Merkaartor 0.11,regular
+301945670,ele,2121,regular
+301945670,name,Mount Wilson,regular
+301945670,natural,peak,regular
+301945670,created,12/12/1980,gnis
+301945670,state_id,32,gnis
+301945670,county_id,003,gnis
+301945670,feature_id,844985,gnis
+301947834,created_by,Merkaartor 0.11,regular
+301950650,created_by,Merkaartor 0.11,regular
+301956628,created_by,Merkaartor 0.11,regular
+301956737,created_by,Merkaartor 0.11,regular
+301960383,created_by,Merkaartor 0.11,regular
+301960423,created_by,Merkaartor 0.11,regular
+301960465,created_by,Merkaartor 0.11,regular
+302056407,created_by,Merkaartor 0.11,regular
+302147073,created_by,Merkaartor 0.11,regular
+302147480,created_by,Merkaartor 0.11,regular
+302152518,created_by,Merkaartor 0.11,regular
+302158186,ref,13,regular
+302158186,highway,motorway_junction,regular
+302170378,created_by,Merkaartor 0.11,regular
+302170473,name,Red Rock Visitors Center,regular
+302170473,phone,+1 (702) 515-5367,regular
+302170473,tourism,information,regular
+302170473,website,http://www.redrockcanyonlv.org/,regular
+302170473,city,Red Rock Visitors Center,addr
+302170473,wikipedia,en:Red Rock Canyon National Conservation Area,regular
+302170473,street,Scenic Loop Drive,addr
+302170473,information,yes,regular
+302170473,postcode,89161,addr
+302170473,housenumber,1000,addr
+302171693,created_by,Merkaartor 0.11,regular
+302171752,created_by,Merkaartor 0.11,regular
+302171791,created_by,Merkaartor 0.11,regular
+302171830,created_by,Merkaartor 0.11,regular
+302171869,created_by,Merkaartor 0.11,regular
+302171905,created_by,Merkaartor 0.11,regular
+302171941,created_by,Merkaartor 0.11,regular
+302174891,created_by,Merkaartor 0.11,regular
+302174938,created_by,Merkaartor 0.11,regular
+302175016,created_by,Merkaartor 0.11,regular
+302178412,created_by,Merkaartor 0.11,regular
+302178519,created_by,Merkaartor 0.11,regular
+302180545,highway,traffic_signals,regular
+302376224,created_by,Merkaartor 0.11,regular
+302376573,created_by,Merkaartor 0.11,regular
+302381233,created_by,Merkaartor 0.11,regular
+302381376,created_by,Merkaartor 0.11,regular
+302381517,created_by,Merkaartor 0.11,regular
+302387951,created_by,Merkaartor 0.11,regular
+302422666,created_by,Merkaartor 0.11,regular
+302422707,created_by,Merkaartor 0.11,regular
+302422740,created_by,Merkaartor 0.11,regular
+302422819,created_by,Merkaartor 0.11,regular
+302422857,created_by,Merkaartor 0.11,regular
+302422964,created_by,Merkaartor 0.11,regular
+302423020,created_by,Merkaartor 0.11,regular
+302423066,created_by,Merkaartor 0.11,regular
+302423116,created_by,Merkaartor 0.11,regular
+302423658,created_by,Merkaartor 0.11,regular
+302423719,created_by,Merkaartor 0.11,regular
+302423838,created_by,Merkaartor 0.11,regular
+302423872,created_by,Merkaartor 0.11,regular
+302423975,created_by,Merkaartor 0.11,regular
+302424025,created_by,Merkaartor 0.11,regular
+302424062,created_by,Merkaartor 0.11,regular
+302424093,created_by,Merkaartor 0.11,regular
+302424298,created_by,Merkaartor 0.11,regular
+302424357,created_by,Merkaartor 0.11,regular
+302426029,created_by,Merkaartor 0.11,regular
+302432561,created_by,Merkaartor 0.11,regular
+302434979,created_by,Merkaartor 0.11,regular
+302435025,created_by,Merkaartor 0.11,regular
+302435789,created_by,Merkaartor 0.11,regular
+302762817,created_by,Merkaartor 0.11,regular
+302762902,created_by,Merkaartor 0.11,regular
+302762929,created_by,Merkaartor 0.11,regular
+302762972,created_by,Merkaartor 0.11,regular
+302762999,created_by,Merkaartor 0.11,regular
+302763031,created_by,Merkaartor 0.11,regular
+302763155,created_by,Merkaartor 0.11,regular
+302763243,created_by,Merkaartor 0.11,regular
+302765893,created_by,Merkaartor 0.11,regular
+302765918,barrier,gate,regular
+302765938,created_by,Merkaartor 0.11,regular
+302765958,created_by,Merkaartor 0.11,regular
+302766007,created_by,Merkaartor 0.11,regular
+302766052,created_by,Merkaartor 0.11,regular
+302766079,created_by,Merkaartor 0.11,regular
+302766099,created_by,Merkaartor 0.11,regular
+302766119,created_by,Merkaartor 0.11,regular
+302766147,created_by,Merkaartor 0.11,regular
+302766180,created_by,Merkaartor 0.11,regular
+302766217,created_by,Merkaartor 0.11,regular
+303215101,created_by,Merkaartor 0.11,regular
+303215121,created_by,Merkaartor 0.11,regular
+303215141,created_by,Merkaartor 0.11,regular
+303215168,created_by,Merkaartor 0.11,regular
+303215189,created_by,Merkaartor 0.11,regular
+303215211,created_by,Merkaartor 0.11,regular
+303215240,created_by,Merkaartor 0.11,regular
+303215267,created_by,Merkaartor 0.11,regular
+303215287,created_by,Merkaartor 0.11,regular
+303216539,created_by,Merkaartor 0.11,regular
+303217432,created_by,Merkaartor 0.11,regular
+303218333,created_by,Merkaartor 0.11,regular
+303218379,created_by,Merkaartor 0.11,regular
+303218446,created_by,Merkaartor 0.11,regular
+303218483,created_by,Merkaartor 0.11,regular
+303218528,created_by,Merkaartor 0.11,regular
+303218568,created_by,Merkaartor 0.11,regular
+303320544,created_by,Merkaartor 0.11,regular
+303320783,created_by,Merkaartor 0.11,regular
+303320866,created_by,Merkaartor 0.11,regular
+303330180,created_by,Merkaartor 0.11,regular
+303330626,created_by,Merkaartor 0.11,regular
+303445635,created_by,Merkaartor 0.11,regular
+303468401,created_by,Merkaartor 0.11,regular
+303468954,created_by,Merkaartor 0.11,regular
+303471247,created_by,Merkaartor 0.11,regular
+303471302,created_by,Merkaartor 0.11,regular
+303576075,created_by,Merkaartor 0.11,regular
+304154769,created_by,Merkaartor 0.11,regular
+304156385,created_by,Merkaartor 0.11,regular
+304156434,created_by,Merkaartor 0.11,regular
+304156455,created_by,Merkaartor 0.11,regular
+304156476,created_by,Merkaartor 0.11,regular
+304156497,created_by,Merkaartor 0.11,regular
+304157155,created_by,Merkaartor 0.11,regular
+304158206,created_by,Merkaartor 0.11,regular
+304166157,created_by,Merkaartor 0.11,regular
+304166200,created_by,Merkaartor 0.11,regular
+304166616,created_by,Merkaartor 0.11,regular
+304169427,created_by,Merkaartor 0.11,regular
+304291426,created_by,Merkaartor 0.11,regular
+304291698,created_by,Merkaartor 0.11,regular
+304291860,created_by,Merkaartor 0.11,regular
+304291924,created_by,Merkaartor 0.11,regular
+304291997,created_by,Merkaartor 0.11,regular
+304292064,created_by,Merkaartor 0.11,regular
+304292192,created_by,Merkaartor 0.11,regular
+304292261,created_by,Merkaartor 0.11,regular
+304463550,created_by,Merkaartor 0.11,regular
+304463592,created_by,Merkaartor 0.11,regular
+304463780,created_by,Merkaartor 0.11,regular
+304463825,created_by,Merkaartor 0.11,regular
+304463988,created_by,Merkaartor 0.11,regular
+304464072,created_by,Merkaartor 0.11,regular
+304465811,created_by,Merkaartor 0.11,regular
+304465855,created_by,Merkaartor 0.11,regular
+304466051,created_by,Merkaartor 0.11,regular
+304466072,created_by,Merkaartor 0.11,regular
+304466096,created_by,Merkaartor 0.11,regular
+304468362,created_by,Merkaartor 0.11,regular
+304468431,created_by,Merkaartor 0.11,regular
+304468528,created_by,Merkaartor 0.11,regular
+304468754,created_by,Merkaartor 0.11,regular
+304468778,created_by,Merkaartor 0.11,regular
+304469463,created_by,Merkaartor 0.11,regular
+304469493,created_by,Merkaartor 0.11,regular
+304470424,created_by,Merkaartor 0.11,regular
+304589506,created_by,Merkaartor 0.11,regular
+304589604,created_by,Merkaartor 0.11,regular
+304589860,created_by,Merkaartor 0.11,regular
+304590009,created_by,Merkaartor 0.11,regular
+304590197,created_by,Merkaartor 0.11,regular
+304590224,created_by,Merkaartor 0.11,regular
+304595366,created_by,Merkaartor 0.11,regular
+304595388,created_by,Merkaartor 0.11,regular
+304595431,created_by,Merkaartor 0.11,regular
+304595524,created_by,Merkaartor 0.11,regular
+304595648,created_by,Merkaartor 0.11,regular
+304595668,created_by,Merkaartor 0.11,regular
+304595688,created_by,Merkaartor 0.11,regular
+304595762,created_by,Merkaartor 0.11,regular
+304595783,created_by,Merkaartor 0.11,regular
+304595803,created_by,Merkaartor 0.11,regular
+304595826,created_by,Merkaartor 0.11,regular
+304595854,ref,65,regular
+304595854,highway,motorway_junction,regular
+304595924,created_by,Merkaartor 0.11,regular
+304595945,created_by,Merkaartor 0.11,regular
+304595965,created_by,Merkaartor 0.11,regular
+304595986,created_by,Merkaartor 0.11,regular
+304596025,created_by,Merkaartor 0.11,regular
+304596215,created_by,Merkaartor 0.11,regular
+304710476,created_by,Merkaartor 0.11,regular
+304711554,created_by,Merkaartor 0.11,regular
+304711587,created_by,Merkaartor 0.11,regular
+304711614,created_by,Merkaartor 0.11,regular
+304711684,created_by,Merkaartor 0.11,regular
+304714434,created_by,Merkaartor 0.11,regular
+304714898,created_by,Merkaartor 0.11,regular
+304716482,created_by,Merkaartor 0.11,regular
+304716678,created_by,Merkaartor 0.11,regular
+304716751,created_by,Merkaartor 0.11,regular
+304716775,created_by,Merkaartor 0.11,regular
+304721060,created_by,Merkaartor 0.11,regular
+304724171,created_by,Merkaartor 0.11,regular
+304725675,created_by,Merkaartor 0.11,regular
+304725722,created_by,Merkaartor 0.11,regular
+305099727,created_by,Merkaartor 0.11,regular
+305099771,created_by,Merkaartor 0.11,regular
+305099948,created_by,Merkaartor 0.11,regular
+305100370,created_by,Merkaartor 0.11,regular
+305100393,created_by,Merkaartor 0.11,regular
+305100415,highway,turning_circle,regular
+305100452,created_by,Merkaartor 0.11,regular
+305100599,name,Las Vegas Metropolitan Police Southern Command,regular
+305100599,amenity,police,regular
+305100599,created_by,Merkaartor 0.11,regular
+305100830,created_by,Merkaartor 0.11,regular
+305188964,created_by,Merkaartor 0.11,regular
+305189246,created_by,Merkaartor 0.11,regular
+305567927,created_by,Merkaartor 0.11,regular
+305568064,created_by,Merkaartor 0.11,regular
+305569044,created_by,Merkaartor 0.11,regular
+305570172,created_by,Merkaartor 0.11,regular
+305729331,created_by,Merkaartor 0.11,regular
+305729385,created_by,Merkaartor 0.11,regular
+305739546,created_by,Merkaartor 0.11,regular
+305746195,created_by,Merkaartor 0.11,regular
+305754777,created_by,Merkaartor 0.11,regular
+305755133,created_by,Merkaartor 0.11,regular
+305801816,created_by,Merkaartor 0.11,regular
+305809841,created_by,Merkaartor 0.11,regular
+305811531,created_by,Merkaartor 0.11,regular
+305811736,created_by,Merkaartor 0.11,regular
+305832622,created_by,Merkaartor 0.11,regular
+305832756,created_by,Merkaartor 0.11,regular
+305844688,created_by,Merkaartor 0.11,regular
+305850958,created_by,Merkaartor 0.11,regular
+305856999,created_by,Merkaartor 0.11,regular
+305857901,created_by,Merkaartor 0.11,regular
+305857958,created_by,Merkaartor 0.11,regular
+305858058,created_by,Merkaartor 0.11,regular
+305858159,created_by,Merkaartor 0.11,regular
+305858387,created_by,Merkaartor 0.11,regular
+305858428,created_by,Merkaartor 0.11,regular
+305858463,created_by,Merkaartor 0.11,regular
+305858491,created_by,Merkaartor 0.11,regular
+305858522,created_by,Merkaartor 0.11,regular
+305858553,created_by,Merkaartor 0.11,regular
+305858592,created_by,Merkaartor 0.11,regular
+305858631,created_by,Merkaartor 0.11,regular
+305858680,created_by,Merkaartor 0.11,regular
+305858719,created_by,Merkaartor 0.11,regular
+305873564,created_by,Merkaartor 0.11,regular
+305874542,created_by,Merkaartor 0.11,regular
+306069981,created_by,Merkaartor 0.11,regular
+306071178,created_by,Merkaartor 0.11,regular
+306071259,created_by,Merkaartor 0.11,regular
+306072359,created_by,Merkaartor 0.11,regular
+306072461,created_by,Merkaartor 0.11,regular
+306072482,created_by,Merkaartor 0.11,regular
+306179718,created_by,Merkaartor 0.11,regular
+306179827,created_by,Merkaartor 0.11,regular
+306179958,created_by,Merkaartor 0.11,regular
+306536855,created_by,Merkaartor 0.11,regular
+306537054,created_by,Merkaartor 0.11,regular
+306538001,created_by,Merkaartor 0.11,regular
+307300992,created_by,Merkaartor 0.11,regular
+307304448,created_by,Merkaartor 0.11,regular
+307354241,created_by,Merkaartor 0.11,regular
+307354279,created_by,Merkaartor 0.11,regular
+307354348,created_by,Merkaartor 0.11,regular
+307444850,name,Ricardo's,regular
+307444850,amenity,restaurant,regular
+307444850,cuisine,mexican,regular
+307444850,created_by,Merkaartor 0.11,regular
+307444850,street,Decatur Boulevard,addr
+307444850,postcode,89103,addr
+307444850,opening_hours,24/7,regular
+307444850,housenumber,4930,addr
+334840396,created_by,Merkaartor 0.12,regular
+334989655,created_by,Merkaartor 0.12,regular
+335480922,created_by,Merkaartor 0.12,regular
+335492946,created_by,Merkaartor 0.12,regular
+357545645,ele,367,regular
+357545645,name,Boulder Beach,regular
+357545645,natural,beach,regular
+357545645,created,12/12/1980,gnis
+357545645,state_id,32,gnis
+357545645,county_id,003,gnis
+357545645,feature_id,838993,gnis
+357548232,ele,577,regular
+357548232,name,Mormon Mesa,regular
+357548232,natural,peak,regular
+357548232,created,12/12/1980,gnis
+357548232,state_id,32,gnis
+357548232,county_id,003,gnis
+357548232,feature_id,842253,gnis
+357551724,ele,584,regular
+357551724,name,Whitney Mesa,regular
+357551724,natural,peak,regular
+357551724,created,12/12/1980,gnis
+357551724,state_id,32,gnis
+357551724,county_id,003,gnis
+357551724,feature_id,845742,gnis
+357554173,ele,566,regular
+357554173,name,California Wash Reservoir,regular
+357554173,landuse,reservoir,regular
+357554173,created,06/01/1990,gnis
+357554173,state_id,32,gnis
+357554173,county_id,003,gnis
+357554173,feature_id,851407,gnis
+357555816,ele,765,regular
+357555816,name,Lake Mead Christian Academy,regular
+357555816,amenity,school,regular
+357555816,edited,07/31/2006,gnis
+357555816,created,10/01/1991,gnis
+357555816,state_id,32,gnis
+357555816,county_id,003,gnis
+357555816,feature_id,856967,gnis
+357556864,ele,563,regular
+357556864,name,Surge Tank Number Two,regular
+357556864,landuse,reservoir,regular
+357556864,created,12/12/1980,gnis
+357556864,state_id,32,gnis
+357556864,county_id,003,gnis
+357556864,feature_id,858207,gnis
+357560839,ele,401,regular
+357560839,name,Mill Number 2-Pond C Dam,regular
+357560839,waterway,dam,regular
+357560839,created,11/01/1991,gnis
+357560839,state_id,32,gnis
+357560839,county_id,003,gnis
+357560839,feature_id,863528,gnis
+357561645,ele,412,regular
+357561645,name,Saint Joseph Post Office,regular
+357561645,amenity,post_office,regular
+357561645,created,05/01/1990,gnis
+357561645,state_id,32,gnis
+357561645,county_id,003,gnis
+357561645,feature_id,864293,gnis
+357564326,ele,614,regular
+357564326,name,Federal Station Post Office,regular
+357564326,amenity,post_office,regular
+357564326,created,05/01/1992,gnis
+357564326,state_id,32,gnis
+357564326,county_id,003,gnis
+357564326,feature_id,865007,gnis
+357564442,ele,755,regular
+357564442,name,KNUU-AM (Paradise),regular
+357564442,man_made,tower,regular
+357564442,created,08/01/1994,gnis
+357564442,state_id,32,gnis
+357564442,county_id,003,gnis
+357564442,feature_id,865059,gnis
+357564562,ele,1231,regular
+357564562,name,KNPR-FM (Las Vegas),regular
+357564562,man_made,tower,regular
+357564562,created,08/01/1994,gnis
+357564562,state_id,32,gnis
+357564562,county_id,003,gnis
+357564562,feature_id,865104,gnis
+357565152,name,Silver Ridge Healthcare Center,regular
+357565152,phone,+1 702 938 8333,regular
+357565152,amenity,nursing_home,regular
+357565152,website,https://www.covenantcare.com/Locations/Silver-Ridge-Healthcare-Center/Facility-Home,regular
+357565152,operator,Covenant Care,regular
+357565152,city,Silver Ridge Healthcare Center,addr
+357565152,street,South Torrey Pines Drive,addr
+357565152,postcode,89146,addr
+357565152,feature_id,2076215,gnis
+357565152,housenumber,1151,addr
+357565892,ele,526,regular
+357565892,name,Cowan Behavior Junior Senior High School,regular
+357565892,amenity,school,regular
+357565892,created,05/02/2006,gnis
+357565892,state_id,32,gnis
+357565892,county_id,003,gnis
+357565892,feature_id,2086496,gnis
+357565964,name,College of Southern Nevada Green Valley Center,regular
+357565964,phone,+1 702 651 2659,regular
+357565964,amenity,college,regular
+357565964,website,https://www.csn.edu/locations/green-valley-center,regular
+357565964,city,College of Southern Nevada Green Valley Center,addr
+357565964,street,West Warm Springs Road,addr
+357565964,postcode,89014,addr
+357565964,feature_id,2087463,gnis
+357565964,housenumber,1560,addr
+357566109,ele,781,regular
+357566109,name,Childrens Choice Kindergarten,regular
+357566109,amenity,school,regular
+357566109,created,05/24/2006,gnis
+357566109,state_id,32,gnis
+357566109,county_id,003,gnis
+357566109,feature_id,2087956,gnis
+357566190,ele,660,regular
+357566190,name,Happy Days Kindergarten,regular
+357566190,amenity,school,regular
+357566190,created,05/30/2006,gnis
+357566190,state_id,32,gnis
+357566190,county_id,003,gnis
+357566190,feature_id,2088474,gnis
+357566265,ele,706,regular
+357566265,name,Lamb of God Lutheran School,regular
+357566265,amenity,school,regular
+357566265,created,05/30/2006,gnis
+357566265,state_id,32,gnis
+357566265,county_id,003,gnis
+357566265,feature_id,2088495,gnis
+357566359,ele,734,regular
+357566359,name,Spring Valley Christian Academy,regular
+357566359,amenity,school,regular
+357566359,created,05/30/2006,gnis
+357566359,state_id,32,gnis
+357566359,county_id,003,gnis
+357566359,feature_id,2088520,gnis
+357566734,ele,614,regular
+357566734,name,American Catholic Church of Nevada,regular
+357566734,amenity,place_of_worship,regular
+357566734,religion,christian,regular
+357566734,denomination,catholic,regular
+357566734,created,07/16/2008,gnis
+357566734,state_id,32,gnis
+357566734,county_id,003,gnis
+357566734,feature_id,2472821,gnis
+357566803,ele,553,regular
+357566803,name,Calvary Foursquare Church,regular
+357566803,amenity,place_of_worship,regular
+357566803,religion,christian,regular
+357566803,created,07/16/2008,gnis
+357566803,state_id,32,gnis
+357566803,county_id,003,gnis
+357566803,feature_id,2472842,gnis
+357566910,ele,627,regular
+357566910,name,Church of the Lord Jesus,regular
+357566910,amenity,place_of_worship,regular
+357566910,religion,christian,regular
+357566910,created,07/16/2008,gnis
+357566910,state_id,32,gnis
+357566910,county_id,003,gnis
+357566910,feature_id,2472862,gnis
+357567048,ele,533,regular
+357567048,name,Evangelica Cristiana Espiritual Church,regular
+357567048,amenity,place_of_worship,regular
+357567048,religion,christian,regular
+357567048,created,07/16/2008,gnis
+357567048,state_id,32,gnis
+357567048,county_id,003,gnis
+357567048,feature_id,2472887,gnis
+357567149,ele,619,regular
+357567149,name,Full Gospel Deliverance Church,regular
+357567149,amenity,place_of_worship,regular
+357567149,religion,christian,regular
+357567149,created,07/16/2008,gnis
+357567149,state_id,32,gnis
+357567149,county_id,003,gnis
+357567149,feature_id,2472908,gnis
+357567288,ele,703,regular
+357567288,name,Iglesia Evangelica Amigos,regular
+357567288,amenity,place_of_worship,regular
+357567288,religion,christian,regular
+357567288,created,07/16/2008,gnis
+357567288,state_id,32,gnis
+357567288,county_id,003,gnis
+357567288,feature_id,2472950,gnis
+357567360,ele,690,regular
+357567360,name,Saint Francis de Sales Catholic Church,regular
+357567360,amenity,place_of_worship,regular
+357567360,religion,christian,regular
+357567360,denomination,catholic,regular
+357567360,created,07/16/2008,gnis
+357567360,state_id,32,gnis
+357567360,county_id,003,gnis
+357567360,feature_id,2473148,gnis
+357567441,ele,774,regular
+357567441,name,Southwest Baptist Church,regular
+357567441,amenity,place_of_worship,regular
+357567441,religion,christian,regular
+357567441,denomination,baptist,regular
+357567441,created,07/16/2008,gnis
+357567441,state_id,32,gnis
+357567441,county_id,003,gnis
+357567441,feature_id,2473171,gnis
+357567527,ele,551,regular
+357567527,name,The Church of Jesus Christ of Latter-day Saints,regular
+357567527,amenity,place_of_worship,regular
+357567527,religion,christian,regular
+357567527,denomination,mormon,regular
+357567527,created,07/16/2008,gnis
+357567527,state_id,32,gnis
+357567527,county_id,003,gnis
+357567527,feature_id,2473195,gnis
+357567633,ele,681,regular
+357567633,name,United Pentecostal Gospel Lighthouse Church,regular
+357567633,amenity,place_of_worship,regular
+357567633,religion,christian,regular
+357567633,denomination,pentecostal,regular
+357567633,created,07/16/2008,gnis
+357567633,state_id,32,gnis
+357567633,county_id,003,gnis
+357567633,feature_id,2473219,gnis
+357567718,ele,611,regular
+357567718,name,Cannon School Park,regular
+357567718,leisure,park,regular
+357567718,created,07/16/2008,gnis
+357567718,state_id,32,gnis
+357567718,county_id,003,gnis
+357567718,feature_id,2473269,gnis
+357567997,ele,678,regular
+357567997,name,McWilliams Playground,regular
+357567997,leisure,park,regular
+357567997,created,07/16/2008,gnis
+357567997,state_id,32,gnis
+357567997,county_id,003,gnis
+357567997,feature_id,2473350,gnis
+357568196,ele,804,regular
+357568196,name,Trent Park,regular
+357568196,leisure,park,regular
+357568196,created,07/16/2008,gnis
+357568196,state_id,32,gnis
+357568196,county_id,003,gnis
+357568196,feature_id,2473404,gnis
+357568280,ele,594,regular
+357568280,name,Green Valley Post Office,regular
+357568280,amenity,post_office,regular
+357568280,created,07/16/2008,gnis
+357568280,state_id,32,gnis
+357568280,county_id,003,gnis
+357568280,feature_id,2473431,gnis
+357568469,ele,656,regular
+357568469,name,Word of Grace Christian Fellowship Church,regular
+357568469,amenity,place_of_worship,regular
+357568469,religion,christian,regular
+357568469,created,07/16/2008,gnis
+357568469,state_id,32,gnis
+357568469,county_id,003,gnis
+357568469,feature_id,2473488,gnis
+357568556,ele,706,regular
+357568556,name,Lamb of God Lutheran Church,regular
+357568556,amenity,place_of_worship,regular
+357568556,religion,christian,regular
+357568556,denomination,lutheran,regular
+357568556,created,07/16/2008,gnis
+357568556,state_id,32,gnis
+357568556,county_id,003,gnis
+357568556,feature_id,2473565,gnis
+357568620,ele,674,regular
+357568620,name,Mount Zion Full Gospel Fellowship Church,regular
+357568620,amenity,place_of_worship,regular
+357568620,religion,christian,regular
+357568620,created,07/16/2008,gnis
+357568620,state_id,32,gnis
+357568620,county_id,003,gnis
+357568620,feature_id,2473585,gnis
+357568704,ele,625,regular
+357568704,name,New Light Baptist Church,regular
+357568704,amenity,place_of_worship,regular
+357568704,religion,christian,regular
+357568704,denomination,baptist,regular
+357568704,created,07/16/2008,gnis
+357568704,state_id,32,gnis
+357568704,county_id,003,gnis
+357568704,feature_id,2473607,gnis
+359248296,ele,836,regular
+359248296,name,Malpais Flattop Mesa,regular
+359248296,natural,peak,regular
+359248296,created,02/08/1980,gnis
+359248296,state_id,04,gnis
+359248296,county_id,015,gnis
+359248296,feature_id,7622,gnis
+365788750,url,http://stores.lowes.com/lowes/cgi/site?site=1703,regular
+365788750,name,Lowe's,regular
+365788750,shop,doityourself,regular
+366087729,ele,604,regular
+366087729,name,Jesus is the Answer Mens Home,regular
+366087729,building,yes,regular
+366087729,state,604,addr
+366087729,feature_id,2473111,gnis
+366087729,county_name,Clark,gnis
+366087799,ele,700,regular
+366087799,name,City of Las Vegas Fire Station Number 43,regular
+366087799,amenity,fire_station,regular
+366087799,state,700,addr
+366087799,feature_id,2473005,gnis
+366087799,county_name,Clark,gnis
+366087869,ele,523,regular
+366087869,name,Henderson Fire Station Number 82,regular
+366087869,amenity,fire_station,regular
+366087869,state,523,addr
+366087869,feature_id,2473091,gnis
+366087869,county_name,Clark,gnis
+366087917,ele,578,regular
+366087917,name,Green Valley Christian Center,regular
+366087917,amenity,place_of_worship,regular
+366087917,religion,christian,regular
+366087917,state,578,addr
+366087917,feature_id,2473082,gnis
+366087917,county_name,Clark,gnis
+366088035,ele,509,regular
+366088035,name,Whitney Community Center,regular
+366088035,building,yes,regular
+366088035,state,509,addr
+366088035,feature_id,2472809,gnis
+366088035,county_name,Clark,gnis
+366088079,ele,599,regular
+366088079,name,Silver Springs Recreation Center,regular
+366088079,leisure,sports_centre,regular
+366088079,state,599,addr
+366088079,feature_id,2472779,gnis
+366088079,county_name,Clark,gnis
+366088170,ele,698,regular
+366088170,name,Las Vegas Metropolitan Police Department Southwest Substation,regular
+366088170,amenity,police,regular
+366088170,state,698,addr
+366088170,feature_id,2473127,gnis
+366088170,county_name,Clark,gnis
+369088304,ele,367,regular
+369088304,name,Trail Rapids Bay,regular
+369088304,natural,bay,regular
+369088304,state,367,addr
+369088304,source_ref,geonames.usgs.gov,regular
+369088304,created,02/08/1980,gnis
+369088304,feature_id,12672,gnis
+369088304,county_name,Mohave,gnis
+369088304,feature_type,Bay,gnis
+369093554,ele,367,regular
+369093554,name,Slide Cove,regular
+369093554,natural,bay,regular
+369093554,state,367,addr
+369093554,source_ref,geonames.usgs.gov,regular
+369093554,created,06/27/1984,gnis
+369093554,feature_id,42950,gnis
+369093554,county_name,Mohave,gnis
+369093554,feature_type,Bay,gnis
+369152809,ele,367,regular
+369152809,name,Cleopatra Cove,regular
+369152809,natural,bay,regular
+369152809,state,367,addr
+369152809,source_ref,geonames.usgs.gov,regular
+369152809,created,12/12/1980,gnis
+369152809,feature_id,839562,gnis
+369152809,county_name,Clark,gnis
+369152809,feature_type,Bay,gnis
+369153324,ele,1540,regular
+369153324,name,Keystone Mine,regular
+369153324,landuse,quarry,regular
+369153324,state,1540,addr
+369153324,created,12/12/1980,gnis
+369153324,feature_id,841484,gnis
+369153324,county_name,Clark,gnis
+369153324,feature_type,Mine,gnis
+369153648,ele,367,regular
+369153648,name,Quail Bay,regular
+369153648,natural,bay,regular
+369153648,state,367,addr
+369153648,source_ref,geonames.usgs.gov,regular
+369153648,created,12/12/1980,gnis
+369153648,feature_id,843012,gnis
+369153648,county_name,Clark,gnis
+369153648,feature_type,Bay,gnis
+369154027,ele,367,regular
+369154027,name,Swallow Bay,regular
+369154027,natural,bay,regular
+369154027,state,367,addr
+369154027,source_ref,geonames.usgs.gov,regular
+369154027,created,12/12/1980,gnis
+369154027,feature_id,844128,gnis
+369154027,county_name,Clark,gnis
+369154027,feature_type,Bay,gnis
+369154743,ele,875,regular
+369154743,name,Arden Gypsum Mine,regular
+369154743,landuse,quarry,regular
+369154743,state,875,addr
+369154743,created,03/01/1991,gnis
+369154743,feature_id,848420,gnis
+369154743,county_name,Clark,gnis
+369154743,feature_type,Mine,gnis
+369154885,ele,367,regular
+369154885,name,Cottonwood Cove,regular
+369154885,natural,bay,regular
+369154885,state,367,addr
+369154885,source_ref,geonames.usgs.gov,regular
+369154885,created,12/01/1989,gnis
+369154885,feature_id,849327,gnis
+369154885,county_name,Clark,gnis
+369154885,feature_type,Bay,gnis
+369159366,ele,1426,regular
+369159366,name,Copper Chief Mine,regular
+369159366,landuse,quarry,regular
+369159366,state,1426,addr
+369159366,created,07/01/1991,gnis
+369159366,feature_id,855250,gnis
+369159366,county_name,Clark,gnis
+369159366,feature_type,Mine,gnis
+369159826,ele,560,regular
+369159826,name,Gypsum Cave Mine,regular
+369159826,landuse,quarry,regular
+369159826,state,560,addr
+369159826,created,07/01/1991,gnis
+369159826,feature_id,855110,gnis
+369159826,county_name,Clark,gnis
+369159826,feature_type,Mine,gnis
+369161350,ele,367,regular
+369161350,name,Hatchery Cove,regular
+369161350,natural,bay,regular
+369161350,state,367,addr
+369161350,source_ref,geonames.usgs.gov,regular
+369161350,created,02/01/1994,gnis
+369161350,feature_id,863690,gnis
+369161350,county_name,Clark,gnis
+369161350,feature_type,Bay,gnis
+369161406,ele,367,regular
+369161406,name,Cataract Wash Cove,regular
+369161406,natural,bay,regular
+369161406,state,367,addr
+369161406,source_ref,geonames.usgs.gov,regular
+369161406,created,02/01/1994,gnis
+369161406,feature_id,863680,gnis
+369161406,county_name,Clark,gnis
+369161406,feature_type,Bay,gnis
+390384136,source,Map of the Shopping Centre,regular
+390384161,source,Map of the Shopping Centre,regular
+439809262,highway,traffic_signals,regular
+448757651,highway,traffic_signals,regular
+448757651,traffic_signals,signal,regular
+448799391,barrier,gate,regular
+455186888,name,Quiznos Sub,regular
+455186888,amenity,fast_food,regular
+455235125,name,Nine West,regular
+455235125,shop,yes,regular
+456020548,name,Bootlegger Bistro,regular
+456020548,source,survey,regular
+456020548,amenity,restaurant,regular
+456020548,cuisine,italian,regular
+456894059,highway,turning_circle,regular
+456894082,highway,turning_circle,regular
+534807942,name,pizza,regular
+534807942,amenity,fast_food,regular
+585366485,name,"Canyon Sand, Inc.",regular
+585366485,note,"Record <a href=""http://tin.er.usgs.gov/mineplant/show.php?labno=3826"">3826</a> of the <a href=""http://tin.er.usgs.gov/mineplant/"">Active mines and mineral plants in the US</a>",regular
+585366485,landuse,quarry,regular
+585366485,man_made,mine,regular
+585366589,name,Apex Lime Plant,regular
+585366589,note,"Record <a href=""http://tin.er.usgs.gov/mineplant/show.php?labno=3344"">3344</a> of the <a href=""http://tin.er.usgs.gov/mineplant/"">Active mines and mineral plants in the US</a>",regular
+585366589,landuse,quarry,regular
+585366589,man_made,mine,regular
+778510913,power,tower,regular
+778510982,power,tower,regular
+778511043,power,tower,regular
+778511129,power,tower,regular
+811038194,noexit,yes,regular
+814618160,name,Checking,regular
+814618160,amenity,cafe,regular
+853432929,power,tower,regular
+853433568,power,tower,regular
+853486805,power,tower,regular
+853486876,power,tower,regular
+853542117,power,tower,regular
+853552713,power,tower,regular
+853565174,power,tower,regular
+853589306,power,tower,regular
+853589402,power,tower,regular
+853672080,power,tower,regular
+853672200,power,tower,regular
+853672277,power,tower,regular
+853697776,power,tower,regular
+853749834,power,tower,regular
+853749899,power,tower,regular
+853751399,power,tower,regular
+853751467,power,tower,regular
+853751540,power,tower,regular
+853792382,power,tower,regular
+853818552,power,tower,regular
+853818611,power,tower,regular
+853818692,power,tower,regular
+853870346,power,tower,regular
+853870387,power,tower,regular
+853870439,power,tower,regular
+853870496,power,tower,regular
+853870834,power,tower,regular
+855162620,power,tower,regular
+855233723,power,tower,regular
+929767031,power,tower,regular
+929767054,power,tower,regular
+929767079,power,tower,regular
+929767106,power,tower,regular
+929767128,power,tower,regular
+929767152,power,tower,regular
+929767176,power,tower,regular
+929767215,power,tower,regular
+929767315,power,tower,regular
+929767341,power,tower,regular
+929767368,power,tower,regular
+929767391,power,tower,regular
+929767413,power,tower,regular
+929767437,power,tower,regular
+929767460,power,tower,regular
+929767514,power,tower,regular
+929767543,power,tower,regular
+929767569,power,tower,regular
+929767589,power,tower,regular
+930525693,power,tower,regular
+930525798,power,tower,regular
+930525903,power,tower,regular
+930525995,power,tower,regular
+930526110,power,tower,regular
+930526237,power,tower,regular
+930526355,power,tower,regular
+930526471,power,tower,regular
+930526577,power,tower,regular
+930526973,power,tower,regular
+930527242,power,pole,regular
+930527382,power,tower,regular
+930527521,power,tower,regular
+930527676,power,tower,regular
+930527796,power,tower,regular
+930527933,power,tower,regular
+931134500,power,tower,regular
+931134555,power,tower,regular
+931134614,power,pole,regular
+931134671,power,tower,regular
+931134720,power,tower,regular
+931134766,power,tower,regular
+931134810,power,tower,regular
+931134862,power,tower,regular
+931134911,power,tower,regular
+931134958,power,tower,regular
+931135150,power,tower,regular
+931379071,power,tower,regular
+931379093,power,tower,regular
+931379116,power,tower,regular
+931379138,power,tower,regular
+931379168,power,tower,regular
+931379203,power,tower,regular
+931379232,power,tower,regular
+931379254,power,tower,regular
+931379277,power,tower,regular
+931379303,power,tower,regular
+931379325,power,tower,regular
+931379349,power,tower,regular
+931379371,power,tower,regular
+931379395,power,tower,regular
+931379418,power,tower,regular
+931379443,power,tower,regular
+931379465,power,tower,regular
+931379487,power,tower,regular
+931379537,power,tower,regular
+931379567,power,tower,regular
+931379589,power,tower,regular
+931379612,power,tower,regular
+931379634,power,tower,regular
+931379661,power,tower,regular
+931379689,power,tower,regular
+931379713,power,tower,regular
+931379735,power,tower,regular
+931379763,power,tower,regular
+931379786,power,tower,regular
+931379810,power,tower,regular
+931379833,power,tower,regular
+931379880,power,tower,regular
+931379905,power,tower,regular
+931379928,power,tower,regular
+931535016,power,tower,regular
+931535040,power,tower,regular
+931535064,power,tower,regular
+931535086,power,tower,regular
+931535110,power,tower,regular
+931535133,power,tower,regular
+931535154,power,tower,regular
+931535176,power,tower,regular
+931535199,power,tower,regular
+931535423,power,tower,regular
+931535458,power,tower,regular
+931535486,power,tower,regular
+931535511,power,tower,regular
+931535534,power,tower,regular
+931535556,power,tower,regular
+931535579,power,tower,regular
+931535603,power,tower,regular
+931535624,power,tower,regular
+931535647,power,tower,regular
+931535692,power,tower,regular
+932281082,power,tower,regular
+932281108,power,tower,regular
+932281133,power,tower,regular
+932281161,power,tower,regular
+932281187,power,tower,regular
+932417687,power,tower,regular
+932417980,power,tower,regular
+935327132,power,tower,regular
+935327805,power,tower,regular
+946972352,power,pole,regular
+946972431,power,pole,regular
+946972489,power,pole,regular
+946972530,power,pole,regular
+946972571,power,pole,regular
+946972617,power,pole,regular
+946972663,power,pole,regular
+946972712,power,pole,regular
+955664984,power,tower,regular
+955665050,power,tower,regular
+955665112,power,tower,regular
+955665184,power,tower,regular
+955665257,power,tower,regular
+955665326,power,tower,regular
+955665387,power,tower,regular
+955665448,power,tower,regular
+956189333,power,tower,regular
+959119836,power,pole,regular
+959119859,power,pole,regular
+959119879,power,tower,regular
+959119920,power,pole,regular
+959119965,power,pole,regular
+959119985,power,pole,regular
+959120006,name,TWA Terminal Building,regular
+959120006,historic,memorial,regular
+959120027,power,pole,regular
+959120048,power,tower,regular
+959120090,power,pole,regular
+959120111,power,pole,regular
+959120131,power,tower,regular
+959120174,power,pole,regular
+959120195,power,pole,regular
+959120215,power,pole,regular
+959130619,power,tower,regular
+959136647,power,pole,regular
+959136668,power,pole,regular
+959136689,power,pole,regular
+959136710,power,pole,regular
+959136731,power,tower,regular
+959136751,power,pole,regular
+959137374,power,pole,regular
+960471035,highway,traffic_signals,regular
+967222906,ref,39,regular
+967222906,exit_to,Spring Mountain Road,regular
+967222906,highway,motorway_junction,regular
+1020403215,power,tower,regular
+1020403428,power,tower,regular
+1020403706,power,tower,regular
+1020403945,power,tower,regular
+1020404128,power,tower,regular
+1020404327,power,tower,regular
+1020404536,power,tower,regular
+1020404779,power,tower,regular
+1020404994,power,tower,regular
+1020405224,power,tower,regular
+1020793062,power,tower,regular
+1020793188,power,tower,regular
+1020793287,power,tower,regular
+1020793398,power,tower,regular
+1020793634,power,tower,regular
+1020793763,power,tower,regular
+1020793970,power,tower,regular
+1020794121,power,tower,regular
+1020794210,power,tower,regular
+1020794293,power,tower,regular
+1020794414,power,tower,regular
+1020794566,power,tower,regular
+1020794750,power,tower,regular
+1020794881,power,tower,regular
+1020795025,power,tower,regular
+1020795475,power,tower,regular
+1122711184,source,bing,regular
+1122711184,highway,turning_circle,regular
+1122711315,highway,turning_circle,regular
+1122712639,source,bing,regular
+1122712639,highway,turning_circle,regular
+1123081628,highway,turning_circle,regular
+1123081648,source,Bing,regular
+1123081648,highway,turning_circle,regular
+1123105115,highway,turning_circle,regular
+1124262792,noexit,yes,regular
+1124263331,highway,turning_circle,regular
+1124324820,source,Bing,regular
+1124324820,highway,turning_circle,regular
+1124324901,highway,turning_circle,regular
+1124465091,highway,turning_circle,regular
+1124466563,highway,turning_circle,regular
+1125840418,noexit,yes,regular
+1125840643,noexit,yes,regular
+1125841001,noexit,yes,regular
+1125857392,noexit,yes,regular
+1125857456,noexit,yes,regular
+1125881305,noexit,yes,regular
+1125881376,noexit,yes,regular
+1125881555,noexit,yes,regular
+1125897693,noexit,yes,regular
+1125914617,highway,turning_circle,regular
+1125937263,highway,turning_circle,regular
+1125937324,highway,turning_circle,regular
+1128912000,highway,turning_circle,regular
+1128912222,highway,turning_circle,regular
+1128922499,highway,turning_circle,regular
+1129045142,highway,turning_circle,regular
+1129045316,highway,turning_circle,regular
+1130596473,highway,turning_circle,regular
+1131884887,source,Bing,regular
+1131884887,highway,turning_circle,regular
+1133583833,highway,turning_circle,regular
+1134650614,highway,turning_circle,regular
+1135107082,highway,turning_circle,regular
+1135118596,highway,turning_circle,regular
+1136423590,highway,turning_circle,regular
+1137995395,noexit,yes,regular
+1138024696,noexit,yes,regular
+1140338148,highway,turning_circle,regular
+1141483089,highway,turning_circle,regular
+1143271647,source,Bing,regular
+1143271647,highway,turning_circle,regular
+1143272054,source,Bing,regular
+1143272054,highway,turning_circle,regular
+1143295961,source,Bing,regular
+1143295961,highway,turning_circle,regular
+1143296189,source,Bing,regular
+1143296189,highway,turning_circle,regular
+1143427169,source,Bing,regular
+1143427169,highway,turning_circle,regular
+1144963092,source,Bing,regular
+1144963092,highway,turning_circle,regular
+1145046880,source,Bing,regular
+1145046880,highway,turning_circle,regular
+1146761865,highway,turning_circle,regular
+1148181982,highway,turning_circle,regular
+1148182194,highway,turning_circle,regular
+1148371507,source,Bing,regular
+1148371507,highway,turning_circle,regular
+1148371845,source,Bing,regular
+1148371845,highway,turning_circle,regular
+1148529886,source,Bing,regular
+1148529886,highway,turning_circle,regular
+1148530067,source,Bing,regular
+1148530067,highway,turning_circle,regular
+1152421867,source,Bing,regular
+1152421867,highway,turning_circle,regular
+1154330333,source,bing,regular
+1154330333,highway,turning_circle,regular
+1154623648,noexit,yes,regular
+1154795982,highway,turning_circle,regular
+1154798205,noexit,yes,regular
+1154799779,source,bing,regular
+1154799779,highway,turning_circle,regular
+1154799941,source,bing,regular
+1154799941,highway,turning_circle,regular
+1154803649,highway,turning_circle,regular
+1155761267,highway,turning_circle,regular
+1155761414,highway,turning_circle,regular
+1164368760,power,tower,regular
+1164368760,source,bing,regular
+1164368855,power,tower,regular
+1164368855,source,bing,regular
+1164368959,power,tower,regular
+1164368959,source,bing,regular
+1164369107,power,tower,regular
+1164369107,source,bing,regular
+1164369250,power,tower,regular
+1164369250,source,bing,regular
+1221405037,name,Garden Court Buffet,regular
+1221405037,amenity,restaurant,regular
+1225458627,power,tower,regular
+1225458736,power,tower,regular
+1225458834,power,tower,regular
+1225458961,power,tower,regular
+1225459034,power,tower,regular
+1225459103,power,tower,regular
+1225459213,power,tower,regular
+1225459293,power,tower,regular
+1225459343,power,tower,regular
+1257557904,highway,turning_circle,regular
+1262424618,amenity,post_office,regular
+1268840890,name,Penske Wynn Ferrari/Maserati,regular
+1268840890,shop,car,regular
+1268840890,street,South Las Vegas Boulevard,addr
+1268840890,postcode,89109,addr
+1268840890,opening_hours,Mo-Su 09:00-20:00,regular
+1268840890,housenumber,3131,addr
+1350746290,name,N5,regular
+1350746290,power,generator,regular
+1350746290,website,http://www.usbr.gov/lc/hooverdam/faqs/powerfaq.html,regular
+1350746290,operator,U.S. Bureau of Reclamation,regular
+1350746290,start_date,1938,regular
+1350746290,type,francis_turbine,generator
+1350746290,method,dam,generator
+1350746290,source,hydro,generator
+1350746290,output:electricity,130 MW,generator
+1350806007,power,portal,regular
+1363200312,name,Gelato Cafe,regular
+1363200312,source,MapQuest Aerial,regular
+1363200312,amenity,ice_cream,regular
+1411969623,highway,crossing,regular
+1421060053,source,Map of the Shopping Centre,regular
+1421060116,source,Map of the Shopping Centre,regular
+1428436734,natural,tree,regular
+1428436734,leaf_type,needleleaved,regular
+1428436777,natural,tree,regular
+1428436777,leaf_type,needleleaved,regular
+1428436906,natural,tree,regular
+1428436906,leaf_type,needleleaved,regular
+1432756552,source,Bing,regular
+1432756552,amenity,toilets,regular
+1455350414,highway,turning_circle,regular
+1466657082,highway,turning_circle,regular
+1466659200,highway,turning_circle,regular
+1466659371,noexit,yes,regular
+1466659663,noexit,yes,regular
+1473385941,ele,498,regular
+1473385941,name,Rodeo Park,regular
+1473385941,leisure,park,regular
+1473385941,created,07/16/2008,gnis
+1473385941,state_id,32,gnis
+1473385941,county_id,003,gnis
+1473385941,feature_id,2473471,gnis
+1475731398,highway,crossing,regular
+1475731563,highway,turning_circle,regular
+1480212764,highway,turning_circle,regular
+1486577982,noexit,yes,regular
+1486578002,highway,turning_circle,regular
+1486578042,highway,crossing,regular
+1486825877,highway,crossing,regular
+1486828569,highway,turning_circle,regular
+1488272276,highway,turning_circle,regular
+1488272356,highway,crossing,regular
+1488273397,highway,turning_circle,regular
+1489042023,entrance,yes,regular
+1491003394,ele,3650 ft,regular
+1491003394,ref,BLD,regular
+1491003394,name,Boulder City VORTAC,regular
+1491003394,type,VORTAC,regular
+1491003394,source,FAA,regular
+1491003394,aeroway,navigationaid,regular
+1491003394,channel,114,regular
+1491003394,frequency,116.70,regular
+1491003394,variation,15 E 1965,regular
+1491003394,date,2011-10-20,source
+1491003394,closest_town,"Boulder City, Nevada",regular
+1492262080,highway,turning_circle,regular
+1493446566,highway,turning_circle,regular
+1519120388,highway,turning_circle,regular
+1519120651,highway,crossing,regular
+1519321431,highway,turning_circle,regular
+1519368000,highway,turning_circle,regular
+1562128742,highway,turning_circle,regular
+1562162599,highway,turning_circle,regular
+1565477604,highway,bus_stop,regular
+1566041505,highway,bus_stop,regular
+1566547076,highway,crossing,regular
+1566599703,highway,crossing,regular
+1566599916,highway,turning_circle,regular
+1566600001,highway,turning_circle,regular
+1566600283,highway,crossing,regular
+1566600465,highway,crossing,regular
+1568681386,noexit,yes,regular
+1568681427,noexit,yes,regular
+1568681727,noexit,yes,regular
+1568682237,noexit,yes,regular
+1568682289,noexit,yes,regular
+1568683072,noexit,yes,regular
+1568683186,noexit,yes,regular
+1568823146,noexit,yes,regular
+1568824167,noexit,yes,regular
+1568824409,noexit,yes,regular
+1568908975,highway,crossing,regular
+1568909112,noexit,yes,regular
+1568909806,noexit,yes,regular
+1568910058,noexit,yes,regular
+1572459478,highway,crossing,regular
+1574988788,noexit,yes,regular
+1574989024,noexit,yes,regular
+1574990008,noexit,yes,regular
+1574990468,noexit,yes,regular
+1575003230,noexit,yes,regular
+1575151351,highway,crossing,regular
+1575153056,noexit,yes,regular
+1577624613,noexit,yes,regular
+1577625568,noexit,yes,regular
+1577626125,highway,crossing,regular
+1577752444,noexit,yes,regular
+1577752597,noexit,yes,regular
+1577752756,noexit,yes,regular
+1577752831,noexit,yes,regular
+1584276105,noexit,yes,regular
+1584276476,noexit,yes,regular
+1584276916,noexit,yes,regular
+1584406231,noexit,yes,regular
+1584406366,noexit,yes,regular
+1584406662,noexit,yes,regular
+1584407042,noexit,yes,regular
+1584407375,noexit,yes,regular
+1584407585,noexit,yes,regular
+1584408013,noexit,yes,regular
+1584408481,noexit,yes,regular
+1584408635,noexit,yes,regular
+1584408736,noexit,yes,regular
+1586237397,highway,traffic_signals,regular
+1586241713,highway,traffic_signals,regular
+1586596620,noexit,yes,regular
+1586782265,noexit,yes,regular
+1586784015,noexit,yes,regular
+1587378634,highway,turning_circle,regular
+1587947946,noexit,yes,regular
+1587951017,noexit,yes,regular
+1587951234,noexit,yes,regular
+1588056114,highway,crossing,regular
+1588056376,highway,crossing,regular
+1588057255,highway,crossing,regular
+1588182723,highway,crossing,regular
+1588183464,highway,crossing,regular
+1588183524,highway,crossing,regular
+1588183913,highway,crossing,regular
+1588183993,highway,crossing,regular
+1588231764,highway,crossing,regular
+1588232030,highway,crossing,regular
+1588232130,highway,crossing,regular
+1590149902,railway,level_crossing,regular
+1590149902,supervised,no,regular
+1590149902,bell,yes,crossing
+1590149902,light,yes,crossing
+1590149902,barrier,double_half,crossing
+1590178933,street,Citadel Circle,addr
+1590178933,housenumber,3601,addr
+1594289996,noexit,yes,regular
+1594337192,noexit,yes,regular
+1594338108,highway,crossing,regular
+1596071861,noexit,yes,regular
+1597103558,noexit,yes,regular
+1597103627,noexit,yes,regular
+1597103752,noexit,yes,regular
+1597104099,highway,crossing,regular
+1597387540,noexit,yes,regular
+1601710218,access,private,regular
+1601710218,barrier,gate,regular
+1606114366,power,tower,regular
+1606114386,power,tower,regular
+1606114406,power,tower,regular
+1606114426,power,tower,regular
+1606114446,power,tower,regular
+1606114466,power,tower,regular
+1606194443,power,tower,regular
+1606194465,power,tower,regular
+1607241746,highway,crossing,regular
+1624736833,name,Red Rock Canyon - Basin Trail Dirt Parking Lot,regular
+1624736833,amenity,parking,regular
+1627145638,foot,yes,regular
+1627145638,barrier,cycle_barrier,regular
+1627145638,bicycle,yes,regular
+1666822584,noexit,yes,regular
+1673125621,power,tower,regular
+1673125693,power,pole,regular
+1675530511,power,pole,regular
+1686623635,highway,crossing,regular
+1692927289,noexit,yes,regular
+1692929032,highway,crossing,regular
+1692929500,noexit,yes,regular
+1692930018,noexit,yes,regular
+1692930317,highway,crossing,regular
+1693083151,noexit,yes,regular
+1699962334,name,Walmart Liquor,regular
+1699962334,shop,alcohol,regular
+1699978689,name,Jack-in-a-Box,regular
+1699978689,amenity,fast_food,regular
+1699978689,cuisine,american,regular
+1700031175,name,McDonald's,regular
+1700031175,amenity,fast_food,regular
+1700031175,cuisine,american,regular
+1707490798,name,Valley of Fire Overflow Camping,regular
+1707490798,tourism,caravan_site,regular
+1709617843,noexit,yes,regular
+1709619287,noexit,yes,regular
+1726491707,power,tower,regular
+1727149740,power,pole,regular
+1727149761,power,pole,regular
+1733180848,name,Desert Adult Books,regular
+1733180848,shop,books,regular
+1747237378,noexit,yes,regular
+1747237682,noexit,yes,regular
+1747238530,noexit,yes,regular
+1747315642,noexit,yes,regular
+1747323794,noexit,yes,regular
+1747323879,noexit,yes,regular
+1747323916,noexit,yes,regular
+1749484263,power,tower,regular
+1749484291,power,tower,regular
+1749484311,power,tower,regular
+1753678649,highway,traffic_signals,regular
+1763786932,noexit,yes,regular
+1763787132,noexit,yes,regular
+1763787506,noexit,yes,regular
+1763787626,noexit,yes,regular
+1763788404,noexit,yes,regular
+1769166842,noexit,yes,regular
+1769259050,review,no,regular
+1769259050,source,Bing,regular
+1769259050,amenity,shelter,regular
+1769259050,shelter_type,picnic_shelter,regular
+1778843946,power,tower,regular
+1778843966,power,tower,regular
+1778843986,power,tower,regular
+1778844006,power,tower,regular
+1778844026,power,tower,regular
+1780001962,power,tower,regular
+1780001982,power,tower,regular
+1780002002,power,tower,regular
+1780002022,power,tower,regular
+1780002042,power,tower,regular
+1780002062,power,tower,regular
+1780002082,power,tower,regular
+1780002102,power,tower,regular
+1780002122,power,tower,regular
+1780002142,power,tower,regular
+1780002162,power,tower,regular
+1780002182,power,tower,regular
+1780002242,power,tower,regular
+1780002262,power,tower,regular
+1780002282,power,tower,regular
+1780002302,power,tower,regular
+1780002422,power,tower,regular
+1780002442,power,tower,regular
+1780002462,power,tower,regular
+1780002482,power,tower,regular
+1780002502,power,tower,regular
+1780002522,power,tower,regular
+1780002542,power,tower,regular
+1780002562,power,tower,regular
+1780002582,power,tower,regular
+1780002602,power,tower,regular
+1780002642,power,tower,regular
+1780002662,power,tower,regular
+1786905338,noexit,yes,regular
+1786945139,noexit,yes,regular
+1786945189,noexit,yes,regular
+1786945231,noexit,yes,regular
+1786945274,noexit,yes,regular
+1786945446,power,tower,regular
+1786945466,power,tower,regular
+1786945747,highway,crossing,regular
+1786945858,highway,crossing,regular
+1810630588,name,Shell,regular
+1810630588,amenity,fuel,regular
+1813420962,ref,5,regular
+1813420962,highway,motorway_junction,regular
+1813420962,old_ref,3,regular
+1821038667,highway,crossing,regular
+1822623354,highway,crossing,regular
+1830478036,highway,crossing,regular
+1834821603,ref,76C,regular
+1834821603,highway,motorway_junction,regular
+1834824225,ref,11,regular
+1834824225,highway,motorway_junction,regular
+1834824225,old_ref,9,regular
+1834966513,noexit,yes,regular
+1834966701,noexit,yes,regular
+1837033646,power,pole,regular
+1837033682,power,pole,regular
+1837033729,power,pole,regular
+1837033778,power,tower,regular
+1837355702,noexit,yes,regular
+1912383087,entrance,yes,regular
+1912435881,noexit,yes,regular
+1912435881,source,Map of the Shopping Centre,regular
+1912435902,source,Map of the Shopping Centre,regular
+1912435957,source,Map of the Shopping Centre,regular
+1912436016,source,Map of the Shopping Centre,regular
+1912436062,source,Map of the Shopping Centre,regular
+1912436088,source,Map of the Shopping Centre,regular
+1912614601,source,Map of the Shopping Centre,regular
+1912614641,source,Map of the Shopping Centre,regular
+1912885548,source,Map of the Shopping Centre,regular
+1912915778,source,Map of the Shopping Centre,regular
+1912915835,source,Map of the Shopping Centre,regular
+1912915863,source,Map of the Shopping Centre,regular
+1916270250,noexit,yes,regular
+1916856208,entrance,yes,regular
+1916856233,entrance,yes,regular
+1923636986,highway,traffic_signals,regular
+1930094792,power,tower,regular
+1930094812,power,tower,regular
+1930094832,power,tower,regular
+1930094852,power,tower,regular
+1930094922,power,tower,regular
+1930094942,power,tower,regular
+1930094982,power,tower,regular
+1930095042,power,tower,regular
+1930095092,power,tower,regular
+1930095132,power,tower,regular
+1930095185,power,tower,regular
+1930095246,power,tower,regular
+1930095288,power,switch,regular
+1930095333,power,tower,regular
+1930095391,power,tower,regular
+1930095446,power,tower,regular
+1930095501,power,tower,regular
+1930095557,power,tower,regular
+1930095601,power,tower,regular
+1930095621,power,tower,regular
+1930095666,power,tower,regular
+1930095725,power,tower,regular
+1930095748,power,tower,regular
+1930798380,barrier,gate,regular
+1941754533,name,Su Salud,regular
+1941754533,shop,convenience,regular
+1941799385,operator,skin city,regular
+1941831325,name,suns beef jerky,regular
+1941831325,amenity,cafe,regular
+1985980476,highway,turning_circle,regular
+1986414801,power,tower,regular
+1986414842,power,tower,regular
+1986414895,power,tower,regular
+1986414938,power,tower,regular
+1986414967,power,tower,regular
+1986414987,power,tower,regular
+1986415007,power,tower,regular
+1988546290,highway,crossing,regular
+1989255114,power,tower,regular
+1989255134,power,tower,regular
+1989255154,power,tower,regular
+1989255174,power,tower,regular
+1989255207,power,tower,regular
+1989255258,power,tower,regular
+1989255477,power,tower,regular
+1989255520,power,tower,regular
+1989255540,power,tower,regular
+1989273378,power,tower,regular
+1989273477,power,tower,regular
+1989273516,power,tower,regular
+1989691170,highway,turning_circle,regular
+1999634798,highway,crossing,regular
+2006091074,name,Lost Man Hot Spring,regular
+2006091074,fcode,45800,regular
+2006091074,source,NHD,regular
+2006091074,natural,spring,regular
+2006091074,name,Lost Man Hot Spring,gnis
+2006091074,feature_id,43004,gnis
+2006103281,fcode,45800,regular
+2006103281,source,NHD,regular
+2006103281,natural,spring,regular
+2006104227,fcode,45800,regular
+2006104227,source,NHD,regular
+2006104227,natural,spring,regular
+2021864726,name,Firestone,regular
+2021864726,shop,car_repair,regular
+2022556909,highway,crossing,regular
+2022556949,highway,crossing,regular
+2022556970,highway,crossing,regular
+2022556993,highway,crossing,regular
+2022557045,highway,crossing,regular
+2022630364,highway,crossing,regular
+2022630384,highway,crossing,regular
+2022630404,highway,crossing,regular
+2022630424,highway,crossing,regular
+2022643159,highway,crossing,regular
+2022643196,highway,crossing,regular
+2022643216,highway,crossing,regular
+2024879488,aeroway,gate,regular
+2024887100,ref,C-21,regular
+2024887100,aeroway,gate,regular
+2024887141,ref,C-1,regular
+2024887141,aeroway,gate,regular
+2024887187,ref,D-5,regular
+2024887187,aeroway,gate,regular
+2024887241,ref,B-17,regular
+2024887241,aeroway,gate,regular
+2024887304,ref,D-33,regular
+2024887304,aeroway,gate,regular
+2027892195,highway,turning_circle,regular
+2029239905,highway,crossing,regular
+2029264180,highway,crossing,regular
+2029264229,highway,crossing,regular
+2029416331,highway,crossing,regular
+2029416353,highway,traffic_signals,regular
+2054430721,highway,crossing,regular
+2054533086,highway,crossing,regular
+2054533131,highway,crossing,regular
+2054533193,noexit,yes,regular
+2057013648,highway,turning_circle,regular
+2061111667,highway,crossing,regular
+2061111687,highway,crossing,regular
+2061254153,highway,crossing,regular
+2061254188,highway,crossing,regular
+2064384102,highway,crossing,regular
+2064384181,highway,crossing,regular
+2064384469,highway,crossing,regular
+2064384575,highway,crossing,regular
+2064384642,highway,crossing,regular
+2064384696,highway,crossing,regular
+2064384741,highway,crossing,regular
+2064396977,highway,crossing,regular
+2064397017,highway,crossing,regular
+2064441633,power,tower,regular
+2064441633,source,Bing,regular
+2066040201,highway,turning_circle,regular
+2066743444,power,tower,regular
+2066743444,source,Bing,regular
+2066743464,power,tower,regular
+2066743464,source,Bing,regular
+2066756666,power,tower,regular
+2066756666,source,Bing,regular
+2066756686,power,tower,regular
+2066756686,source,Bing,regular
+2066756707,power,tower,regular
+2066756707,source,Bing,regular
+2066756733,power,tower,regular
+2066756733,source,Bing,regular
+2066756757,power,tower,regular
+2066756757,source,Bing,regular
+2066830376,power,tower,regular
+2066830376,source,Bing,regular
+2066830442,power,tower,regular
+2066830442,source,Bing,regular
+2066830512,power,tower,regular
+2066830512,source,Bing,regular
+2066830580,power,tower,regular
+2066830580,source,Bing,regular
+2066830629,power,tower,regular
+2066830629,source,Bing,regular
+2066830657,power,tower,regular
+2066830657,source,Bing,regular
+2071158149,power,tower,regular
+2071158149,source,Bing,regular
+2071158169,power,tower,regular
+2071158169,source,Bing,regular
+2071158189,power,tower,regular
+2071158189,source,Bing,regular
+2071158209,power,tower,regular
+2071158209,source,Bing,regular
+2071158259,power,tower,regular
+2071158259,source,Bing,regular
+2071158321,power,tower,regular
+2071158321,source,Bing,regular
+2071158386,power,tower,regular
+2071158386,source,Bing,regular
+2071158442,power,tower,regular
+2071158442,source,Bing,regular
+2071158498,power,tower,regular
+2071158498,source,Bing,regular
+2074109073,highway,crossing,regular
+2074109113,highway,crossing,regular
+2074109133,highway,crossing,regular
+2074109153,highway,crossing,regular
+2074163845,highway,crossing,regular
+2074163895,highway,crossing,regular
+2074164228,highway,crossing,regular
+2074164310,highway,crossing,regular
+2075754843,highway,crossing,regular
+2075754863,highway,crossing,regular
+2075754963,highway,crossing,regular
+2075754983,highway,crossing,regular
+2075755003,highway,crossing,regular
+2075755023,highway,crossing,regular
+2075814027,highway,crossing,regular
+2075814137,highway,crossing,regular
+2075814157,highway,crossing,regular
+2075814217,highway,crossing,regular
+2075814277,highway,crossing,regular
+2075814411,highway,crossing,regular
+2075814431,highway,crossing,regular
+2077131073,highway,crossing,regular
+2077131233,highway,crossing,regular
+2077131313,highway,crossing,regular
+2077201555,highway,crossing,regular
+2077201575,highway,crossing,regular
+2077201683,highway,crossing,regular
+2081810687,noexit,yes,regular
+2089512518,highway,crossing,regular
+2089512560,highway,crossing,regular
+2089512581,highway,crossing,regular
+2089512623,highway,crossing,regular
+2089512644,highway,crossing,regular
+2089573681,highway,crossing,regular
+2089573869,highway,crossing,regular
+2089641323,highway,crossing,regular
+2089641428,highway,crossing,regular
+2090615853,noexit,yes,regular
+2090615874,noexit,yes,regular
+2090615895,noexit,yes,regular
+2090615958,noexit,yes,regular
+2090616000,noexit,yes,regular
+2090616083,highway,crossing,regular
+2094264307,highway,crossing,regular
+2094264387,highway,crossing,regular
+2094375717,highway,crossing,regular
+2094375750,highway,crossing,regular
+2094375792,review,no,regular
+2094375792,source,Bing,regular
+2094375792,tourism,picnic_site,regular
+2094375829,highway,crossing,regular
+2094375981,highway,crossing,regular
+2094376156,highway,crossing,regular
+2094476567,noexit,yes,regular
+2094476603,highway,crossing,regular
+2094594312,highway,crossing,regular
+2094594334,highway,crossing,regular
+2094594356,highway,crossing,regular
+2094594377,highway,crossing,regular
+2099440428,highway,crossing,regular
+2099440508,highway,crossing,regular
+2099440588,highway,crossing,regular
+2099440628,highway,crossing,regular
+2099440668,highway,crossing,regular
+2099440709,review,no,regular
+2099440709,source,Bing,regular
+2099440709,tourism,picnic_site,regular
+2099440729,review,no,regular
+2099440729,source,Bing,regular
+2099440729,amenity,bbq,regular
+2100915819,highway,crossing,regular
+2100915851,highway,crossing,regular
+2100915910,highway,crossing,regular
+2100915981,highway,crossing,regular
+2100916051,highway,crossing,regular
+2100916084,highway,crossing,regular
+2101148550,highway,crossing,regular
+2101148730,highway,crossing,regular
+2101148830,highway,crossing,regular
+2101148851,highway,crossing,regular
+2101148979,highway,crossing,regular
+2103949623,highway,crossing,regular
+2103949683,highway,crossing,regular
+2103949723,highway,crossing,regular
+2103949763,highway,crossing,regular
+2105296206,highway,crossing,regular
+2105296244,highway,crossing,regular
+2105296286,highway,crossing,regular
+2105296361,highway,crossing,regular
+2105296397,highway,crossing,regular
+2105296428,highway,crossing,regular
+2105296448,highway,crossing,regular
+2105296569,noexit,yes,regular
+2105296689,highway,crossing,regular
+2105297199,highway,crossing,regular
+2105297224,noexit,yes,regular
+2105297248,noexit,yes,regular
+2105297388,highway,crossing,regular
+2105357782,highway,crossing,regular
+2105357908,highway,crossing,regular
+2105357928,highway,crossing,regular
+2105357948,highway,crossing,regular
+2110304696,highway,crossing,regular
+2110304736,highway,crossing,regular
+2110304976,noexit,yes,regular
+2110339896,highway,crossing,regular
+2110386466,highway,crossing,regular
+2110387246,highway,crossing,regular
+2110387332,highway,crossing,regular
+2110387817,noexit,yes,regular
+2110401009,highway,crossing,regular
+2111956704,noexit,yes,regular
+2111956748,noexit,yes,regular
+2111957101,highway,crossing,regular
+2111958246,highway,crossing,regular
+2115242257,highway,crossing,regular
+2117345931,highway,crossing,regular
+2117345971,highway,crossing,regular
+2117346031,highway,crossing,regular
+2117346106,highway,crossing,regular
+2117346157,highway,crossing,regular
+2117429563,highway,crossing,regular
+2117429817,noexit,yes,regular
+2117430458,highway,crossing,regular
+2117430698,highway,crossing,regular
+2117430901,highway,crossing,regular
+2117430961,highway,crossing,regular
+2117431125,highway,crossing,regular
+2117431447,highway,crossing,regular
+2117431487,highway,crossing,regular
+2117431699,highway,crossing,regular
+2118887294,highway,crossing,regular
+2118887369,highway,crossing,regular
+2120459275,highway,crossing,regular
+2120564604,noexit,yes,regular
+2122122418,highway,crossing,regular
+2124866029,barrier,gate,regular
+2124936607,highway,turning_circle,regular
+2124940170,barrier,gate,regular
+2125992336,highway,crossing,regular
+2125992638,highway,crossing,regular
+2125992738,highway,crossing,regular
+2126160235,barrier,gate,regular
+2126167181,highway,turning_circle,regular
+2126185602,highway,turning_circle,regular
+2126251958,barrier,gate,regular
+2126842698,highway,turning_circle,regular
+2127199995,highway,crossing,regular
+2127200626,highway,crossing,regular
+2128595623,barrier,gate,regular
+2129195006,noexit,yes,regular
+2131894162,highway,turning_circle,regular
+2132154836,barrier,gate,regular
+2132931473,highway,turning_circle,regular
+2133173374,highway,crossing,regular
+2133184463,highway,crossing,regular
+2133184618,noexit,yes,regular
+2133223829,highway,crossing,regular
+2133224269,highway,crossing,regular
+2133389376,highway,crossing,regular
+2133389717,noexit,yes,regular
+2133389838,highway,crossing,regular
+2133389978,highway,crossing,regular
+2133390018,highway,crossing,regular
+2133390164,highway,crossing,regular
+2133533287,barrier,gate,regular
+2133563816,highway,turning_circle,regular
+2135737114,noexit,yes,regular
+2137012420,highway,crossing,regular
+2137012930,highway,crossing,regular
+2141164844,noexit,yes,regular
+2142152005,url,www.hennesseyslasvegas.com,regular
+2142152005,name,Hennessey's,regular
+2142152005,phone,+17023824421,regular
+2142152005,amenity,pub,regular
+2142152005,wheelchair,yes,regular
+2142152005,street,Fremont Street,addr
+2142152005,housenumber,425,addr
+2142209291,highway,crossing,regular
+2142209921,noexit,yes,regular
+2142209954,noexit,yes,regular
+2142210135,noexit,yes,regular
+2142279592,highway,crossing,regular
+2142280133,highway,crossing,regular
+2142280645,highway,crossing,regular
+2142280845,highway,crossing,regular
+2142280865,highway,crossing,regular
+2142418686,amenity,fountain,regular
+2142418727,amenity,fountain,regular
+2142418775,amenity,fountain,regular
+2142418814,amenity,fountain,regular
+2142418862,amenity,fountain,regular
+2142418904,amenity,fountain,regular
+2142418951,amenity,fountain,regular
+2142418995,amenity,fountain,regular
+2142419043,amenity,fountain,regular
+2142419086,amenity,fountain,regular
+2142419133,amenity,fountain,regular
+2142419178,amenity,fountain,regular
+2142431722,natural,tree,regular
+2142431818,natural,tree,regular
+2145040494,highway,crossing,regular
+2145040854,highway,crossing,regular
+2145106300,highway,crossing,regular
+2145106660,noexit,yes,regular
+2146478384,highway,turning_circle,regular
+2146501139,foot,yes,regular
+2146501139,barrier,gate,regular
+2146501702,highway,crossing,regular
+2146553243,noexit,yes,regular
+2146553323,highway,crossing,regular
+2146553387,noexit,yes,regular
+2146628036,noexit,yes,regular
+2147425402,highway,turning_circle,regular
+2147460140,highway,turning_circle,regular
+2147682147,highway,turning_circle,regular
+2148617601,highway,turning_circle,regular
+2151270098,ele,651,regular
+2151270098,name,Foothills Montessori School,regular
+2151270098,amenity,school,regular
+2151270098,created,05/24/2006,gnis
+2151270098,state_id,32,gnis
+2151270098,county_id,003,gnis
+2151270098,feature_id,2088468,gnis
+2151282800,highway,crossing,regular
+2151471274,highway,crossing,regular
+2151471335,highway,crossing,regular
+2151471355,noexit,yes,regular
+2151514294,highway,crossing,regular
+2153950696,noexit,yes,regular
+2153950776,noexit,yes,regular
+2153987446,highway,crossing,regular
+2153987512,highway,crossing,regular
+2154123400,highway,crossing,regular
+2155656054,noexit,yes,regular
+2160762381,highway,crossing,regular
+2160763056,highway,crossing,regular
+2160763323,highway,crossing,regular
+2162238156,highway,crossing,regular
+2162238216,highway,crossing,regular
+2162351480,highway,crossing,regular
+2162351667,review,no,regular
+2162351667,source,Bing,regular
+2162351667,tourism,picnic_site,regular
+2162351750,highway,crossing,regular
+2162352529,highway,crossing,regular
+2162352549,highway,traffic_signals,regular
+2162352659,highway,crossing,regular
+2162352679,noexit,yes,regular
+2162352739,ref,748694A,regular
+2162352739,railway,level_crossing,regular
+2162352739,bell,yes,crossing
+2162352739,light,yes,crossing
+2162352739,barrier,double_half,crossing
+2163838956,noexit,yes,regular
+2163848134,source,Bing,regular
+2163848134,highway,turning_circle,regular
+2163848158,source,Bing,regular
+2163848158,highway,turning_circle,regular
+2165024363,highway,crossing,regular
+2165025021,highway,crossing,regular
+2165025087,highway,crossing,regular
+2165025109,highway,crossing,regular
+2169565159,name,Abercrombie & Fitch,regular
+2169565159,shop,clothes,regular
+2169565159,street,Town Square Parkway,addr
+2169565159,postcode,89119,addr
+2169565159,opening_hours,"Mo-We, Sa 10:00-21:00; Th-Fr 10:00-22:00; Su 11:00-20:00",regular
+2169565159,housenumber,6623,addr
+2185178080,review,no,regular
+2185178080,source,Bing,regular
+2185178080,amenity,shelter,regular
+2185178080,shelter_type,picnic_shelter,regular
+2185178160,highway,crossing,regular
+2185178503,noexit,yes,regular
+2185679193,highway,turning_circle,regular
+2185774363,highway,turning_circle,regular
+2185774386,highway,turning_circle,regular
+2185802974,highway,turning_circle,regular
+2186072400,noexit,yes,regular
+2186259234,highway,turning_circle,regular
+2186398280,highway,turning_circle,regular
+2186419665,highway,turning_circle,regular
+2186471316,highway,turning_circle,regular
+2186471349,noexit,yes,regular
+2186487988,highway,turning_circle,regular
+2186502225,highway,turning_circle,regular
+2186505784,highway,turning_circle,regular
+2186769962,noexit,yes,regular
+2186833396,highway,crossing,regular
+2186841025,highway,crossing,regular
+2188107763,noexit,yes,regular
+2188107907,highway,crossing,regular
+2188108067,highway,crossing,regular
+2188108087,highway,crossing,regular
+2189388789,highway,crossing,regular
+2189428405,highway,crossing,regular
+2189428475,noexit,yes,regular
+2189428667,noexit,yes,regular
+2190647818,highway,crossing,regular
+2190649956,highway,crossing,regular
+2199019755,highway,crossing,regular
+2199019795,highway,crossing,regular
+2199019815,highway,crossing,regular
+2199020015,highway,crossing,regular
+2199021064,highway,crossing,regular
+2199145490,highway,crossing,regular
+2199146547,highway,crossing,regular
+2202868088,highway,crossing,regular
+2202868126,highway,crossing,regular
+2202868172,highway,crossing,regular
+2202868222,highway,crossing,regular
+2202881787,highway,crossing,regular
+2202918409,highway,crossing,regular
+2202918449,highway,crossing,regular
+2206816191,highway,turning_circle,regular
+2207653175,highway,crossing,regular
+2207809500,highway,crossing,regular
+2209514472,highway,crossing,regular
+2209514492,highway,crossing,regular
+2209514515,highway,crossing,regular
+2209514555,highway,crossing,regular
+2209514650,highway,crossing,regular
+2209567826,highway,crossing,regular
+2209568049,highway,crossing,regular
+2214008391,barrier,gate,regular
+2214057618,highway,crossing,regular
+2214057638,highway,crossing,regular
+2214057678,highway,crossing,regular
+2214057698,highway,crossing,regular
+2214057758,highway,crossing,regular
+2214057818,highway,crossing,regular
+2214057858,highway,crossing,regular
+2218471321,name,Cottonwood Spring,regular
+2218471321,tourism,attraction,regular
+2222149444,source,Bing,regular
+2222149444,highway,turning_circle,regular
+2222192536,noexit,yes,regular
+2223745790,highway,crossing,regular
+2224940041,highway,crossing,regular
+2224940141,highway,crossing,regular
+2224940543,highway,crossing,regular
+2231115134,highway,crossing,regular
+2231115198,highway,crossing,regular
+2231116561,highway,crossing,regular
+2231199846,highway,crossing,regular
+2231199879,highway,crossing,regular
+2231200140,highway,crossing,regular
+2235197234,name,Kiss 2,regular
+2235197234,tourism,attraction,regular
+2241137220,noexit,yes,regular
+2241218100,highway,crossing,regular
+2241328878,noexit,yes,regular
+2241346485,name,Nevada State College,regular
+2241346485,amenity,college,regular
+2241346485,highway,crossing,regular
+2243651558,highway,turning_circle,regular
+2243834739,source,bing,regular
+2243834739,highway,turning_circle,regular
+2244497120,highway,crossing,regular
+2244497642,highway,crossing,regular
+2244497918,highway,crossing,regular
+2244498390,highway,crossing,regular
+2244498472,highway,crossing,regular
+2244498787,highway,crossing,regular
+2246008394,highway,crossing,regular
+2246997821,highway,crossing,regular
+2249843343,highway,crossing,regular
+2249843423,highway,crossing,regular
+2249843814,highway,crossing,regular
+2249843874,review,no,regular
+2249843874,source,Bing,regular
+2249843874,amenity,shelter,regular
+2249843874,shelter_type,picnic_shelter,regular
+2249843895,noexit,yes,regular
+2249844075,noexit,yes,regular
+2249844115,highway,crossing,regular
+2249844135,highway,crossing,regular
+2259722282,highway,crossing,regular
+2259723085,foot,yes,regular
+2259723085,barrier,gate,regular
+2261195934,highway,crossing,regular
+2261196029,highway,crossing,regular
+2261196496,highway,crossing,regular
+2269119900,highway,crossing,regular
+2269119920,noexit,yes,regular
+2269119980,highway,turning_circle,regular
+2269120020,highway,crossing,regular
+2269120244,highway,crossing,regular
+2269120326,highway,crossing,regular
+2272325587,highway,crossing,regular
+2272325834,highway,crossing,regular
+2276241766,highway,crossing,regular
+2276724255,highway,crossing,regular
+2276724486,highway,crossing,regular
+2276725224,highway,crossing,regular
+2276725480,noexit,yes,regular
+2276725761,highway,crossing,regular
+2276726306,highway,crossing,regular
+2280507545,highway,crossing,regular
+2280507801,highway,crossing,regular
+2280508203,highway,crossing,regular
+2280508283,highway,crossing,regular
+2280508303,highway,crossing,regular
+2280508409,noexit,yes,regular
+2280543666,highway,crossing,regular
+2280543686,highway,crossing,regular
+2280543706,highway,crossing,regular
+2280543726,highway,crossing,regular
+2304491814,noexit,yes,regular
+2304693604,noexit,yes,regular
+2304693807,highway,crossing,regular
+2304693850,noexit,yes,regular
+2304694375,highway,crossing,regular
+2307065190,name,Paradise Cantina,regular
+2307065190,source,local knowledge,regular
+2307065190,amenity,bar,regular
+2307065190,website,http://paradisecantinas.com/lasvegas.html,regular
+2307065190,street,Paradise Rd,addr
+2307065190,postcode,89169,addr
+2317975434,highway,crossing,regular
+2317975547,highway,crossing,regular
+2317975858,highway,crossing,regular
+2326589866,highway,crossing,regular
+2326590665,highway,crossing,regular
+2326590990,highway,crossing,regular
+2332627603,highway,crossing,regular
+2335062446,highway,crossing,regular
+2344081887,highway,crossing,regular
+2344081948,highway,crossing,regular
+2344082088,noexit,yes,regular
+2344082128,highway,crossing,regular
+2344082168,noexit,yes,regular
+2352806946,name,Calico Ridge,regular
+2352806946,place,neighbourhood,regular
+2353064582,highway,crossing,regular
+2353065266,noexit,yes,regular
+2353065437,noexit,yes,regular
+2359511266,highway,crossing,regular
+2359593516,highway,crossing,regular
+2359654980,highway,crossing,regular
+2359655024,highway,crossing,regular
+2359655170,highway,crossing,regular
+2361103176,highway,crossing,regular
+2361149975,highway,crossing,regular
+2361150015,highway,crossing,regular
+2361150075,highway,crossing,regular
+2362721745,noexit,yes,regular
+2362721887,noexit,yes,regular
+2362816344,highway,crossing,regular
+2362816384,noexit,yes,regular
+2362816404,highway,crossing,regular
+2364121205,highway,crossing,regular
+2368068590,noexit,yes,regular
+2368068630,noexit,yes,regular
+2368068650,noexit,yes,regular
+2368068690,noexit,yes,regular
+2368068710,highway,crossing,regular
+2368068730,noexit,yes,regular
+2370286714,noexit,yes,regular
+2370286874,noexit,yes,regular
+2370335007,noexit,yes,regular
+2370335462,highway,crossing,regular
+2378605740,noexit,yes,regular
+2378605760,noexit,yes,regular
+2378605859,highway,crossing,regular
+2378605909,noexit,yes,regular
+2378605929,railway,crossing,regular
+2379787110,highway,crossing,regular
+2379787151,noexit,yes,regular
+2379787269,highway,crossing,regular
+2379787354,highway,crossing,regular
+2379787398,highway,crossing,regular
+2379787490,noexit,yes,regular
+2379787772,noexit,yes,regular
+2379788205,highway,crossing,regular
+2379788441,highway,crossing,regular
+2381411414,name,Latino Services,regular
+2387117422,highway,crossing,regular
+2387118256,highway,crossing,regular
+2407825125,highway,turning_circle,regular
+2407825145,highway,turning_circle,regular
+2407825166,highway,turning_circle,regular
+2407825218,highway,turning_circle,regular
+2407825389,highway,turning_circle,regular
+2412923521,highway,turning_circle,regular
+2423212037,highway,traffic_signals,regular
+2442044331,highway,turning_circle,regular
+2442051415,highway,turning_circle,regular
+2445256040,barrier,gate,regular
+2479450690,highway,crossing,regular
+2479508753,highway,traffic_signals,regular
+2479541520,highway,crossing,regular
+2479580316,highway,traffic_signals,regular
+2480552697,highway,crossing,regular
+2497926939,name,RTC Bike Center,regular
+2497926939,shop,bicycle,regular
+2497926939,website,http://www.rtcsnv.com/cycling/rtc-bike-center/,regular
+2497926939,city,RTC Bike Center,addr
+2497926939,street,Bonneville,addr
+2497926939,postcode,89101,addr
+2497926939,opening_hours,Mo-Sa 07:00-19:00,regular
+2497926939,housename,Bonneville Transit Center,addr
+2497926939,housenumber,101 E.,addr
+2498964799,highway,stop,regular
+2498968514,name,Mandalay Bay,regular
+2498968514,tram,yes,regular
+2498968514,public_transport,stop_position,regular
+2524164984,noexit,yes,regular
+2524165035,noexit,yes,regular
+2529592719,power,tower,regular
+2571915327,amenity,fuel,regular
+2590259746,name,Taco Bell,regular
+2590259746,phone,+1-702-656-3260,regular
+2590259746,amenity,fast_food,regular
+2590259746,website,http://www.tacobell.com,regular
+2590259746,city,Taco Bell,addr
+2590259746,state,Taco Bell,addr
+2590259746,street,North Durango Drive,addr
+2590259746,postcode,89129,addr
+2590259746,opening_hours,Mo-Su 10:00-23:00,regular
+2590259746,housenumber,3260,addr
+2600805938,name,L.A. Insurance,regular
+2600805938,office,insurance,regular
+2600884785,name,Phoenix Salon,regular
+2600884785,note,Suite #322,regular
+2600884785,phone,702-440-8866,regular
+2600884785,website,http://vegas-salon.com/,regular
+2600884785,city,Phoenix Salon,addr
+2600884785,street,Las Vegas Boulevard S,addr
+2600884785,postcode,89123,addr
+2600884785,bitcoin,yes,payment
+2600884785,housenumber,9151,addr
+2603781329,name,Nellis Car Wash,regular
+2603781329,amenity,car_wash,regular
+2611278212,name,Inspire Theater,regular
+2611278212,amenity,theatre,regular
+2611278212,operator,Downtown Project,regular
+2638007888,highway,traffic_signals,regular
+2674349703,highway,street_lamp,regular
+2677082340,power,pole,regular
+2681812513,leisure,swimming_pool,regular
+2681812554,access,customers,regular
+2681812554,leisure,swimming_pool,regular
+2684712615,highway,traffic_signals,regular
+2688901475,name,Fire Station 48,regular
+2688901475,amenity,fire_station,regular
+2692045804,amenity,fuel,regular
+2693543942,name,Jack in the Box,regular
+2693543942,amenity,fast_food,regular
+2693543942,cuisine,burger,regular
+2710498712,highway,crossing,regular
+2720414054,name,Lavo,regular
+2720414054,phone,(866) 983-4279,regular
+2720414054,amenity,nightclub,regular
+2720414054,website,http://lavolv.com,regular
+2720414054,city,Lavo,addr
+2720414054,street,South Las Vegas Boulevard,addr
+2720414054,postcode,89109,addr
+2720414054,housenumber,3325,addr
+2735776421,name,Pacific Harbors Apartments,regular
+2735776421,building,apartments,regular
+2735776421,street,East Sahara Avenue,addr
+2735776421,housenumber,5150,addr
+2746802648,highway,traffic_signals,regular
+2746802648,crossing,traffic_signals,regular
+2750476476,highway,traffic_signals,regular
+2753200959,name,Panda Express,regular
+2753200959,amenity,fast_food,regular
+2753200959,website,http://www.pandaexpress.com,regular
+2753200959,city,Panda Express,addr
+2753200959,street,West Tropicana Avenue,addr
+2753200959,postcode,89103,addr
+2753200959,housenumber,4780,addr
+2762980046,amenity,toilets,regular
+2780650205,name,Ross Dress for Less,regular
+2780650205,shop,yes,regular
+2782284309,name,Sunset Pizzeria,regular
+2782284309,phone,702-778-4444,regular
+2782284309,amenity,restaurant,regular
+2782284309,cuisine,pizza,regular
+2782284309,website,http://www.sunsetpizzeriatropicana.com,regular
+2782284309,capacity,50,regular
+2782284309,city,Sunset Pizzeria,addr
+2782284309,street,West Tropicana Avenue,addr
+2782284309,postcode,89147,addr
+2782284309,opening_hours,11-9,regular
+2782284309,bitcoin,yes,payment
+2782284309,housenumber,9730,addr
+2799625792,shop,hairdresser,regular
+2808130413,entrance,yes,regular
+2816854138,highway,turning_circle,regular
+2830354725,highway,turning_circle,regular
+2830368734,highway,turning_circle,regular
+2834888297,name,Llantera Flamingo,regular
+2834888297,shop,tyres,regular
+2834888297,phone,(702) 333-3660,regular
+2834888297,city,Llantera Flamingo,addr
+2834888297,state,Llantera Flamingo,addr
+2834888297,street,East Flamingo Road,addr
+2834888297,postcode,89121,addr
+2834888297,housenumber,4881,addr
+2834904351,shop,car_repair,regular
+2837027155,name,Church's Chicken,regular
+2837027155,amenity,fast_food,regular
+2841687272,highway,turning_circle,regular
+2852160842,highway,traffic_signals,regular
+2857349287,name,Subway,regular
+2857349287,amenity,fast_food,regular
+2867763258,highway,turning_circle,regular
+2875101122,barrier,gate,regular
+2876053543,highway,turning_circle,regular
+2879297394,highway,turning_circle,regular
+2884658477,name,The Mesa,regular
+2884658477,place,suburb,regular
+2890270815,highway,turning_circle,regular
+2890614603,type,palm,regular
+2890614603,natural,tree,regular
+2903457704,name,Tony's Pizza,regular
+2903457704,amenity,restaurant,regular
+2903457704,cuisine,pizza,regular
+2903457704,city,Tony's Pizza,addr
+2903457704,street,Nevada Way,addr
+2903457704,postcode,89005,addr
+2903457704,housenumber,546,addr
+2931714982,barrier,gate,regular
+2933701363,highway,turning_circle,regular
+2984193343,barrier,gate,regular
+3006069322,highway,turning_circle,regular
+3054597613,entrance,yes,regular
+3060070254,noexit,yes,regular
+3079297529,highway,traffic_signals,regular
+3097589224,amenity,fire_station,regular
+3097623181,name,Dune Overlook,regular
+3097623181,tourism,viewpoint,regular
+3097626563,highway,crossing,regular
+3097626563,crossing,zebra,regular
+3139478672,name,Anthem,regular
+3139478672,place,suburb,regular
+3139478672,city,Henderson,is_in
+3139478672,state_code,NV,is_in
+3163897114,name,Best Buy,regular
+3163897114,amenity,vending_machine,regular
+3163900879,name,Pei Wei Asian Diner,regular
+3163900879,amenity,restaurant,regular
+3169400638,name,Pizza Hut,regular
+3169400638,amenity,restaurant,regular
+3169400638,cuisine,pizza,regular
+3186281151,type,palm,regular
+3186281151,natural,tree,regular
+3186281771,type,palm,regular
+3186281771,natural,tree,regular
+3186281791,type,palm,regular
+3186281791,natural,tree,regular
+3186281811,type,palm,regular
+3186281811,natural,tree,regular
+3190713926,highway,turning_circle,regular
+3197911187,entrance,yes,regular
+3207174762,name,SKECHERS,regular
+3207174762,shop,shoes,regular
+3207174822,name,T-Mobile,regular
+3207174822,shop,mobile_phone,regular
+3245212151,highway,turning_circle,regular
+3271196835,name,Best Buy Express,regular
+3271196835,amenity,vending_machine,regular
+3329751017,name,Watermill Express,regular
+3329751017,amenity,drinking_water,regular
+3357671472,tourism,artwork,regular
+3414133393,highway,turning_circle,regular
+3429471219,noexit,yes,regular
+3454284154,name,Doral Academy,regular
+3454284154,amenity,school,regular
+3454284154,city,Doral Academy,addr
+3454284154,street,W Cactus Ave,addr
+3454284154,postcode,89178,addr
+3454284154,housenumber,9025,addr
+3474537669,name,The UPS Store,regular
+3474537669,amenity,post_office,regular
+3499850360,natural,tree,regular
+3499850360,leaf_type,broadleaved,regular
+3499850360,leaf_cycle,evergreen,regular
+3499850380,natural,tree,regular
+3499850380,leaf_type,broadleaved,regular
+3499850380,leaf_cycle,evergreen,regular
+3499857786,natural,tree,regular
+3499857786,leaf_type,broadleaved,regular
+3499857786,leaf_cycle,evergreen,regular
+3499858306,natural,tree,regular
+3499858306,leaf_type,broadleaved,regular
+3499858306,leaf_cycle,evergreen,regular
+3499858346,natural,tree,regular
+3499858346,leaf_type,broadleaved,regular
+3499858346,leaf_cycle,evergreen,regular
+3499858366,natural,tree,regular
+3499858366,leaf_type,broadleaved,regular
+3499858366,leaf_cycle,evergreen,regular
+3499858386,natural,tree,regular
+3499858386,leaf_type,broadleaved,regular
+3499858386,leaf_cycle,evergreen,regular
+3499858574,natural,tree,regular
+3499858574,leaf_type,broadleaved,regular
+3499858574,leaf_cycle,evergreen,regular
+3499858614,natural,tree,regular
+3499858614,leaf_type,broadleaved,regular
+3499858614,leaf_cycle,evergreen,regular
+3499858674,natural,tree,regular
+3499858674,leaf_type,broadleaved,regular
+3499858674,leaf_cycle,evergreen,regular
+3499858753,natural,tree,regular
+3499858753,leaf_type,broadleaved,regular
+3499858753,leaf_cycle,evergreen,regular
+3499859336,natural,tree,regular
+3499859336,leaf_type,broadleaved,regular
+3499859336,leaf_cycle,evergreen,regular
+3499859596,natural,tree,regular
+3499859596,leaf_type,broadleaved,regular
+3499859596,leaf_cycle,evergreen,regular
+3499859696,foot,yes,regular
+3499859696,barrier,gate,regular
+3499859696,bicycle,yes,regular
+3499859918,natural,tree,regular
+3499859918,leaf_type,broadleaved,regular
+3499859918,leaf_cycle,evergreen,regular
+3499859938,natural,tree,regular
+3499859938,leaf_type,broadleaved,regular
+3499859938,leaf_cycle,evergreen,regular
+3499860399,natural,tree,regular
+3499860399,leaf_type,broadleaved,regular
+3499860399,leaf_cycle,evergreen,regular
+3499860419,natural,tree,regular
+3499860419,leaf_type,broadleaved,regular
+3499860419,leaf_cycle,evergreen,regular
+3499860503,natural,tree,regular
+3499860503,leaf_type,broadleaved,regular
+3499860503,leaf_cycle,evergreen,regular
+3499860523,natural,tree,regular
+3499860523,leaf_type,broadleaved,regular
+3499860523,leaf_cycle,evergreen,regular
+3499860563,natural,tree,regular
+3499860563,leaf_type,broadleaved,regular
+3499860563,leaf_cycle,evergreen,regular
+3499860583,natural,tree,regular
+3499860583,leaf_type,broadleaved,regular
+3499860583,leaf_cycle,evergreen,regular
+3505131466,highway,turning_circle,regular
+3517276593,access,delivery,regular
+3517276593,barrier,gate,regular
+3524185398,highway,traffic_signals,regular
+3527342100,highway,traffic_signals,regular
+3528627174,highway,traffic_signals,regular
+3528627174,crossing,traffic_signals,regular
+3529987894,highway,traffic_signals,regular
+3529989494,highway,traffic_signals,regular
+3534275829,name,Popeye's,regular
+3534275829,amenity,fast_food,regular
+3534275829,cuisine,chicken,regular
+3554496062,noexit,yes,regular
+3564020801,highway,turning_circle,regular
+3564020822,highway,turning_circle,regular
+3566746382,highway,turning_circle,regular
+3584401993,highway,turning_circle,regular
+3597811670,man_made,tower,regular
+3597811670,type,communication,tower
+3605144100,highway,street_lamp,regular
+3605144240,highway,street_lamp,regular
+3605144420,highway,street_lamp,regular
+3605157176,highway,traffic_signals,regular
+3619424389,name,Lake Mead Lookout Point from top of Mtn.,regular
+3622678036,natural,tree,regular
+3631793416,highway,turning_circle,regular
+3642693083,highway,turning_circle,regular
+3678382820,city,Las Vegas,addr
+3678382820,housenumber,2235,addr
+3678382820,postcode,89104,addr
+3678382820,state,Las Vegas,addr
+3678382820,street,South Las Vegas Boulevard,addr
+3678382820,leisure,sports_centre,regular
+3678382820,name,Strip Gun Club,regular
+3678382820,opening_hours,Su-Th 10:00-19:00 Fr-Sa 10:00-20:00,regular
+3678382820,phone,+1 702 777 4867,regular
+3678382820,sport,shooting_range,regular
+3679703298,name,Best Western Plus Henderson Hotel,regular
+3679703298,tourism,hotel,regular
+3679703298,city,Best Western Plus Henderson Hotel,addr
+3679703298,state,Best Western Plus Henderson Hotel,addr
+3679703298,street,North Boulder Highway,addr
+3679703298,country,US,addr
+3679703298,postcode,89011,addr
+3679703298,internet_access,wlan,regular
+3679703298,housenumber,1553,addr
+3679703298,fee,no,internet_access
+3699086325,fee,no,regular
+3699086325,access,customers,regular
+3699086325,amenity,toilets,regular
+3699086325,wheelchair,yes,regular
+3717282781,name,Hilton Lake Las Vegs Resort & Spa,regular
+3717282781,tourism,resort,regular
+3717282781,website,http://www3.hilton.com/en/hotels/nevada/hilton-lake-las-vegas-resort-and-spa-LASLKHF/index.html,regular
+3719180778,highway,turning_circle,regular
+3720854876,highway,turning_circle,regular
+3725490850,noexit,yes,regular
+3733612815,noexit,yes,regular
+3733642221,noexit,yes,regular
+3733711303,highway,turning_circle,regular
+3743415538,amenity,fuel,regular
+3763008480,barrier,gate,regular
+3763008822,name,Southwest Medical Associates,regular
+3763008822,amenity,clinic,regular
+3776179908,power,tower,regular
+3776179928,power,tower,regular
+3776179948,power,tower,regular
+3783743558,highway,crossing,regular
+3783743558,crossing,zebra,regular
+3783743618,highway,crossing,regular
+3783743618,crossing,zebra,regular
+3783743838,highway,crossing,regular
+3783743838,crossing,zebra,regular
+3796637535,name,Family Dollar,regular
+3796637535,shop,variety_store,regular
+3802984976,name,Star Dental,regular
+3802984976,amenity,dentist,regular
+3822199155,name,dd's DISCOUNTS,regular
+3822199155,shop,clothes,regular
+3832644819,power,tower,regular
+3832644839,power,tower,regular
+3832655159,power,tower,regular
+3832655179,power,tower,regular
+3832655199,power,tower,regular
+3832655219,power,tower,regular
+3835157625,shop,beauty,regular
+3835158065,name,SuperPawn,regular
+3835158065,shop,pawnbroker,regular
+3861630765,name,Ohjah Japanese Steakhouse,regular
+3861630765,phone,(702) 361-8888,regular
+3861630765,amenity,restaurant,regular
+3861630765,cuisine,japanese,regular
+3864331932,amenity,atm,regular
+3890788909,highway,turning_circle,regular
+3899132172,highway,crossing,regular
+3899132172,crossing,traffic_signals,regular
+3917151386,power,tower,regular
+3924999015,barrier,gate,regular
+3931648682,name,La Favorita Market,regular
+3931648682,shop,convenience,regular
+3938854174,access,destination,regular
+3938854174,barrier,gate,regular
+3963081574,highway,crossing,regular
+3963081574,crossing,zebra,regular
+4015588705,name,McDonald's,regular
+4015588705,phone,17027343058,regular
+4015588705,amenity,fast_food,regular
+4015588705,website,http://www.mcdonalds.com,regular
+4015588705,street,South Las Vegas Boulevard,addr
+4015588705,postcode,89109,addr
+4015588705,opening_hours,24/7,regular
+4015588705,housenumber,3717,addr
+4017094147,name,Slice of Vegas Pizza,regular
+4017094147,phone,7026327777,regular
+4017094147,amenity,restaurant,regular
+4017094147,cuisine,pizza,regular
+4017094147,postcode,89119,addr
+4017094147,opening_hours,Mo-Su 11:00-23:00,regular
+4017094147,housenumber,3930,addr
+4017094167,name,Starbucks,regular
+4017094167,amenity,cafe,regular
+4020584213,amenity,fountain,regular
+4020799965,natural,tree,regular
+4020799965,species,palm,regular
+4020800125,natural,tree,regular
+4020800125,species,palm,regular
+4020800225,natural,tree,regular
+4020800225,species,palm,regular
+4020800465,natural,tree,regular
+4020800465,species,palm,regular
+4020800685,natural,tree,regular
+4020800685,species,palm,regular
+4020800745,natural,tree,regular
+4020800745,species,palm,regular
+4020906018,natural,tree,regular
+4020906018,species,palm,regular
+4020906158,natural,tree,regular
+4020906158,species,palm,regular
+4020906578,natural,tree,regular
+4020906578,species,palm,regular
+4020906745,natural,tree,regular
+4020906745,species,palm,regular
+4020906968,natural,tree,regular
+4020906968,species,palm,regular
+4021063675,natural,tree,regular
+4021063675,species,palm,regular
+4021063815,natural,tree,regular
+4021063815,species,palm,regular
+4021063835,natural,tree,regular
+4021063835,species,palm,regular
+4022852441,natural,tree,regular
+4022852441,species,palm,regular
+4022852514,natural,tree,regular
+4022852514,species,palm,regular
+4022852534,natural,tree,regular
+4022852534,species,palm,regular
+4022852575,natural,tree,regular
+4022852575,species,palm,regular
+4022852615,natural,tree,regular
+4022852615,species,palm,regular
+4022852695,natural,tree,regular
+4022852695,species,palm,regular
+4022852815,natural,tree,regular
+4022852815,species,palm,regular
+4022853075,natural,tree,regular
+4022853075,species,palm,regular
+4022853235,natural,tree,regular
+4022853235,species,palm,regular
+4022853415,natural,tree,regular
+4022853415,species,palm,regular
+4022853495,natural,tree,regular
+4022853495,species,palm,regular
+4022853515,natural,tree,regular
+4022853515,species,palm,regular
+4022853575,natural,tree,regular
+4022853575,species,palm,regular
+4022853735,natural,tree,regular
+4022853735,species,palm,regular
+4022854315,natural,tree,regular
+4022854315,species,palm,regular
+4022925672,natural,tree,regular
+4022925672,species,palm,regular
+4022927592,natural,tree,regular
+4022927592,species,palm,regular
+4037708301,entrance,yes,regular
+4037708643,natural,tree,regular
+4037708643,species,palm,regular
+4037708663,natural,tree,regular
+4037708663,species,palm,regular
+4037708703,entrance,yes,regular
+4052259021,natural,tree,regular
+4052259021,species,palm,regular
+4052259081,natural,tree,regular
+4052259081,species,palm,regular
+4052259121,natural,tree,regular
+4052259121,species,palm,regular
+4052259181,natural,tree,regular
+4052259181,species,palm,regular
+4052505251,name,Taco Bell,regular
+4052505251,amenity,fast_food,regular
+4052505251,cuisine,mexican,regular
+4113362168,name,7-Eleven,regular
+4113362168,shop,convenience,regular
+4122949668,name,Americas Best Value Inn Downtown Las Vegas,regular
+4122949668,tourism,motel,regular
+4136403785,name,Omelet House,regular
+4136403785,amenity,restaurant,regular
+4199079442,power,generator,regular
+4199079442,source,gas,generator
+4200422294,name,Sieu Thi Thuan Phat Superstore,regular
+4200422294,shop,supermarket,regular
+4200422294,street,Spring Mountain Road,addr
+4200422294,housenumber,4801,addr
+4209907128,leisure,picnic_table,regular
+4212718753,amenity,waste_basket,regular
+4230348776,name,White Domes,regular
+4230348776,natural,peak,regular
+4265064899,highway,traffic_signals,regular
+4308330659,bench,yes,regular
+4308330659,highway,bus_stop,regular
+4308330659,shelter,yes,regular
+4311995408,name,Chipotle,regular
+4311995408,phone,17026334463,regular
+4311995408,amenity,restaurant,regular
+4311995408,website,http://www.chipolte.com,regular
+4311995408,street,East Craig Road,addr
+4311995408,postcode,89030,addr
+4311995408,opening_hours,Mo-Su 11:00-22:00,regular
+4311995408,housenumber,2546 suit 100,addr
+4322909026,amenity,bicycle_parking,regular
+4331920963,amenity,shelter,regular
+4331920963,shelter_type,sun_shelter,regular
+4331920983,amenity,shelter,regular
+4331920983,shelter_type,sun_shelter,regular
+4332646293,name,Entrance,regular
+4332646293,access,customers,regular
+4332646293,amenity,parking_entrance,regular
+4332646293,parking,underground,regular
+4332646293,operator,MGM Grand,regular
+4332646293,supervised,yes,regular
+4332700277,lit,yes,regular
+4332700277,advertising,billboard,regular
+4365457762,name,Quality In-Home Care Services Inc,regular
+4365457762,phone,(702) 480-0673,regular
+4365457762,website,http://qualityinhomecareinc.com/,regular
+4365457762,city,Quality In-Home Care Services Inc,addr
+4365457762,state,Quality In-Home Care Services Inc,addr
+4365457762,street,Maryland Parkway,addr
+4365457762,postcode,89109,addr
+4365457762,housenumber,2770,addr
+4370459817,power,pole,regular
+4370459817,source,Bing,regular
+4413880400,name,El Segundo Sol,regular
+4413880400,amenity,restaurant,regular
+4413880400,cuisine,mexican,regular
+4419260242,name,Starbucks,regular
+4419260242,amenity,cafe,regular
+4419260242,cuisine,coffee_shop,regular
+4425294389,name,Thai Food To Go,regular
+4425294389,phone,7027788898,regular
+4425294389,amenity,restaurant,regular
+4425294389,cuisine,thai,regular
+4425294389,street,East Desert Inn Road,addr
+4425294389,postcode,89121,addr
+4425294389,opening_hours,Mo-Su 11:00-22:00,regular
+4425294389,housenumber,3242,addr
+4441681667,amenity,parking_entrance,regular
+4448938396,name,Artash Jewels,regular
+4448938396,shop,jewelry,regular
+4448938396,phone,17028151800,regular
+4448938396,opening_hours,Mo-Fr 10:00-18:00; Sa 10:00-16:00,regular
+4450380193,name,Port of Subs,regular
+4450380193,phone,1708380727,regular
+4450380193,amenity,restaurant,regular
+4450380193,street,W Charleston blvd,addr
+4450380193,postcode,89135,addr
+4450380193,opening_hours,Mo-Fr 07:00-21:30; Sa 07:00-21:00; Su 09:00-20:00,regular
+4450380193,housenumber,10260,addr
+4460421727,name,Central Christian church,regular
+4460421727,amenity,place_of_worship,regular
+4460421727,en,Central Christian church,name
+4461296238,name,Black Velvet Wall,regular
+4461296238,sport,rock_climbing,regular
+4461296238,leisure,pitch,regular
+4461296238,climbing,traditional,regular
+4462572703,amenity,toilets,regular
+4462588456,name,Logandale Trails Main Parking,regular
+4462588456,amenity,parking,regular
+4470726993,name,Bachi Burger,regular
+4470726993,amenity,restaurant,regular
+4470726993,cuisine,burger,regular
+4472361575,name,Eisenberg Tax And Business Services Inc,regular
+4472361575,phone,702-369-2209,regular
+4472361575,website,http://eisenbergtax.com,regular
+4472361575,city,Eisenberg Tax And Business Services Inc,addr
+4472361575,state,Eisenberg Tax And Business Services Inc,addr
+4472361575,street,E Sahara Ave #207,addr
+4472361575,postcode,89104,addr
+4472361575,housenumber,1830,addr
+4487807688,name,United Garage Door,regular
+4487807688,city,United Garage Door,addr
+4487807688,state,United Garage Door,addr
+4487807688,street,Pioneer Avenue,addr
+4487807688,postcode,89102,addr
+4487807688,housenumber,4150,addr
+4531917586,name,Prudential - Ken Hartung,regular
+4531917586,phone,+1-702-272-1451,regular
+4531917586,suite,150,regular
+4531917586,website,http://prudential.com/financial-advisors/nv/lasvegas/leroy-hartung,regular
+4531917586,city,Prudential - Ken Hartung,addr
+4531917586,state,Prudential - Ken Hartung,addr
+4531917586,street,S Rainbow Blvd,addr
+4531917586,postcode,89146,addr
+4531917586,housenumber,3311,addr
+4534429495,name,Durango Canyon,regular
+4534429495,en,Durango Canyon,name
+4534429495,tourism,alpine_hut,regular
+4538256290,name,Big Bus Las Vegas hop-no hop-off,regular
+4538256290,tourism,attraction,regular
+4538256290,street,South Las Vegas Boulevard,addr
+4538256290,postcode,89109,addr
+4538256290,housenumber,2955,addr
+4548102407,highway,crossing,regular
+4550329699,barrier,gate,regular
+4551806449,barrier,gate,regular
+4558009631,highway,traffic_signals,regular
+4558009631,traffic_signals,signal,regular
+4571144359,name,Goett Family Park,regular
+4571144359,leisure,park,regular
+4583249132,barrier,gate,regular
+4584807523,name,Yin and Yang,regular
+4584807523,sport,climbing,regular
+4595969651,highway,crossing,regular
+4598441338,highway,traffic_signals,regular
+4614459549,highway,turning_circle,regular
+4635987949,name,McCullough Vista Park,regular
+4635987949,leisure,park,regular
+4668671252,name,Palio,regular
+4668671252,amenity,cafe,regular
+4668688400,name,Bugsy's Deli,regular
+4668688400,amenity,restaurant,regular
+4668742162,name,Cafe Pan,regular
+4668742162,amenity,cafe,regular
+4668742182,name,Public House,regular
+4668742182,amenity,restaurant,regular
+4668786303,name,Nobu,regular
+4668786303,amenity,restaurant,regular
+4668886736,name,Emeril's New Orleans Fish House,regular
+4668886736,amenity,restaurant,regular
+4669431066,name,Flight,regular
+4669431066,amenity,bar,regular
+4670046961,name,The Steak House,regular
+4670046961,amenity,restaurant,regular
+4670046961,cuisine,steak_house,regular
+4677463627,highway,turning_circle,regular
+4727457072,building,apartments,regular
+4727457072,city,apartments,addr
+4727457072,street,200 Hoover Ave.,addr
+4727457072,country,US,addr
+4727457072,postcode,89101,addr
+4739085054,name,McDonald's,regular
+4739085054,amenity,fast_food,regular
+4739085054,cuisine,burger,regular
+4742179529,name,Janie And Jack,regular
+4742179529,shop,clothes,regular
+4742179549,name,Rachel's Kitchen,regular
+4742179549,amenity,restaurant,regular
+4742179569,name,Me Gusta Tacos,regular
+4742179569,amenity,restaurant,regular
+4783436036,power,pole,regular
+4783436036,source,Bing,regular
+4783436056,power,pole,regular
+4783436056,source,Bing,regular
+4783436076,power,pole,regular
+4783436076,source,Bing,regular
+4800791144,advertising,billboard,regular
+4802914759,highway,traffic_signals,regular
+4803157638,highway,crossing,regular
+4803157638,crossing,traffic_signals,regular
+4804666316,highway,crossing,regular
+4804666316,crossing,traffic_signals,regular
+4804687993,highway,crossing,regular
+4804687993,crossing,traffic_signals,regular
+4807010545,highway,traffic_signals,regular
+4808977664,amenity,fuel,regular
+4809027049,amenity,fuel,regular
+4809027069,highway,traffic_signals,regular
+4810450468,amenity,fuel,regular
+4810851787,highway,traffic_signals,regular
+4812716793,amenity,toilets,regular
+4812853009,highway,traffic_signals,regular
+4812933113,amenity,fuel,regular
+4814734579,amenity,fuel,regular
+4817581049,noexit,yes,regular
+4829282425,highway,crossing,regular
+4833972614,shop,convenience,regular
+4835807910,amenity,fuel,regular
+4837724982,highway,traffic_signals,regular
+4837744931,amenity,fuel,regular
+4837754148,amenity,fuel,regular
+4837816510,highway,traffic_signals,regular
+4837817781,amenity,fuel,regular
+4838124675,highway,traffic_signals,regular
+4839537058,natural,tree,regular
+4842730090,highway,traffic_signals,regular
+4842912337,amenity,shelter,regular
+4843185121,name,Ulta Beauty,regular
+4843185121,shop,beauty,regular
+4843185121,en,Ulta Beauty,name
+4846118433,noexit,yes,regular
+4851707889,highway,traffic_signals,regular
+4852976257,highway,traffic_signals,regular
+4856808117,amenity,fuel,regular
+4857760467,shop,convenience,regular
+4857791448,shop,convenience,regular
+4858623175,amenity,shelter,regular
+4865289742,noexit,yes,regular
+4867844573,highway,traffic_signals,regular
+4867932171,highway,traffic_signals,regular
+4867932171,traffic_signals,signal,regular
+4868671935,highway,bus_stop,regular
+4880344728,highway,turning_circle,regular
+4883764421,name,Sam's Club,regular
+4883764421,shop,department_store,regular
+4883764421,en,Sam's Club,name
+4883764421,street,East Craig Road,addr
+4883764421,postcode,89030,addr
+4883764421,housenumber,2650,addr
+4914855478,fee,no,regular
+4914855478,access,yes,regular
+4914855478,unisex,yes,regular
+4914855478,amenity,toilets,regular
+4914855478,wheelchair,yes,regular
+4914855478,disposal,pitlatrine,toilets
+4925398165,aeroway,holding_position,regular
+4925398185,aeroway,holding_position,regular
+4933953522,name,Burger King,regular
+4933953522,phone,7022279822,regular
+4933953522,amenity,restaurant,regular
+4933953522,website,http://www.burgerking.com,regular
+4933953522,street,South Fort Apache Road,addr
+4933953522,postcode,89148,addr
+4933953522,housenumber,5240,addr
+4942129426,power,pole,regular
+4950077425,name,Azuzar Hookah,regular
+4950077425,amenity,bar,regular
+4950077425,en,Azuzar Hookah,name
+4991406802,highway,street_lamp,regular
+4991406822,highway,street_lamp,regular
+4994190422,amenity,restaurant,regular
+4994190422,name,china Gourmet,regular
+4994190422,en,china,name
+4996329922,name,Lockdown Escape Rooms - Highland,regular
+4996329922,tourism,attraction,regular
+5035122683,highway,motorway_junction,regular
+5035122683,ref,15A,regular
+5047098424,tourism,hotel,regular
+5068820653,city,Las Vegas,addr
+5068820653,country,USA,addr
+5068820653,housenumber,8475,addr
+5068820653,postcode,89123,addr
+5068820653,state,Las Vegas,addr
+5068820653,street,South Eastern Avenue,addr
+5068820653,unit,101,addr
+5068820653,description,MaxHealth provides a wide range of chiropractic and muscular therapy services.,regular
+5068820653,healthcare,alternative,regular
+5068820653,speciality,chiropractic,healthcare
+5068820653,name,MaxHealth Center of Chiropractor Las Vegas,regular
+5068820653,opening_hours,Tue -Thu: 09:00AM-08:00PM; Fri: 09:00AM-02:30PM; Sat : 09:00AM-03:00PM,regular
+5068820653,phone,+1-702-898-3311,regular
+5068820653,website,http://maxhealthlv.com,regular
